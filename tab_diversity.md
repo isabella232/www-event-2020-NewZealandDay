@@ -4,7 +4,7 @@ displaytext: Diversity Fund
 layout:  null
 tab: true
 order: 2
-tags: owaspnz2020
+tags: nzday2020
 ---
 
 # Diversity and Financial Aid fund

@@ -4,7 +4,7 @@ displaytext: Code of Conduct
 layout:  null
 tab: true
 order: 3
-tags: owaspnz2020
+tags: nzday2020
 ---
 
 # Code of Conduct

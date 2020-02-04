@@ -4,7 +4,7 @@ displaytext: Call for Sponsorships
 layout:  null
 tab: true
 order: 1
-tags: owaspnz2020
+tags: nzday2020
 ---
 
 # Call for Sponsorships
