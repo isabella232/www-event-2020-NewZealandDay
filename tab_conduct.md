@@ -7,6 +7,8 @@ order: 3
 tags: nzday2020
 ---
 
+![Conference Web Banner](assets/images/Web_Banner-OWASP_NZ_Day_2020.jpg)
+
 # Code of Conduct
 
 We want to make the OWASP NZ Day a welcoming environment for all attendees. To that end, we would like to remind you that all activities associated with this event are subject to OWASP's Conference Policies. At their core, these policies are intended to promote and maintain an inclusive, welcoming environment for all participants - actions detrimental to that environment are unwelcome.

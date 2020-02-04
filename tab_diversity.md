@@ -7,6 +7,8 @@ order: 2
 tags: nzday2020
 ---
 
+![Conference Web Banner](assets/images/Web_Banner-OWASP_NZ_Day_2020.jpg)
+
 # Diversity and Financial Aid fund
 
 Thanks to the generous support of our lovely sponsors, we will have some funding available to help people from around New Zealand attend the OWASP NZ Day, who would otherwise find it hard to attend. In particular, we welcome applications from women, people of colour, LGBTQ2IA, Pacific Island indigenous peoples, and all others. You all deserve to be able to learn more about security, and we’ll do our best to help make that happen!

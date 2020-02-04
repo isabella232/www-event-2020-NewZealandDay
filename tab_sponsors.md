@@ -7,6 +7,8 @@ order: 1
 tags: nzday2020
 ---
 
+![Conference Web Banner](assets/images/Web_Banner-OWASP_NZ_Day_2020.jpg)
+
 # Call for Sponsorships
 
 OWASP New Zealand Day 2020 will be held in Auckland on Friday, 21 February, 2020, and is a security conference entirely dedicated to
