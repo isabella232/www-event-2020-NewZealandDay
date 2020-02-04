@@ -3,7 +3,7 @@ title: Diversity
 displaytext: Diversity Fund
 layout:  null
 tab: true
-order: 2
+order: 5
 tags: nzday2020
 ---
 

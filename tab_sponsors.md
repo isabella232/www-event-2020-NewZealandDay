@@ -3,7 +3,7 @@ title: Sponsors
 displaytext: Call for Sponsorships
 layout:  null
 tab: true
-order: 1
+order: 4
 tags: nzday2020
 ---
 

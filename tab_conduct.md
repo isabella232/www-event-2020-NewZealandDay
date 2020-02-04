@@ -3,7 +3,7 @@ title: Conduct
 displaytext: Code of Conduct
 layout:  null
 tab: true
-order: 3
+order: 7
 tags: nzday2020
 ---
 
