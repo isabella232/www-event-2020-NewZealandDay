@@ -9,11 +9,7 @@ tags: nzday2020
 
 ![Conference Web Banner](assets/images/Web_Banner-OWASP_NZ_Day_2020.jpg)
 
-# Code of Conduct
-
-
-
-==Conference Schedule==
+# Conference Schedule
 
 
 <h3 align="center" Friday, 21 February 2020>
