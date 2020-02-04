@@ -132,39 +132,39 @@ For more information on our Premier Sponsors, please visit our [About Our Sponso
 
 ### Conference Host
 
-[![University of Auckland Business School](assets/images/Logo-UofA_Business_School.png)](http://www.auckland.ac.nz/)
+[![University of Auckland Business School](assets/images/Logo-UofA_Business_School.png)](http://www.auckland.ac.nz/)   
 
 ### Platinum Sponsors
 
-[![Logo - Insomnia Security Specialists](assets/images/Logo-Insomnia_Security_Specialists-125.png)](https://www.insomniasec.com/)
+[![Logo - Insomnia Security Specialists](assets/images/Logo-Insomnia_Security_Specialists-125.png)](https://www.insomniasec.com/)   
 
-[![Logo - Lateral Security](assets/images/Logo-Lateral_Security-125.png)](https://www.lateralsecurity.com/)
+[![Logo - Lateral Security](assets/images/Logo-Lateral_Security-125.png)](https://www.lateralsecurity.com/)   
 
 ### Gold Sponsors
 
-[![Logo - Auth0](assets/images/Logo-Auth0-125.png)](https://auth0.com/)
+[![Logo - Auth0](assets/images/Logo-Auth0-125.png)](https://auth0.com/)   
 
-[![Logo - Aura Information Security](assets/images/Logo-Aura_Information_Security-125.jpg)](https://www.aurainfosec.com/)
+[![Logo - Aura Information Security](assets/images/Logo-Aura_Information_Security-125.jpg)](https://www.aurainfosec.com/)   
 
-[![Logo - Checkmarx](assets/images/Logo-Checkmarx-125.png)](https://www.checkmarx.com/)
+[![Logo - Checkmarx](assets/images/Logo-Checkmarx-125.png)](https://www.checkmarx.com/)   
 
-[![Logo-Internet NZ](assets/images/Logo-Internet_NZ-250.png)](https://internetnz.nz/)
+[![Logo-Internet NZ](assets/images/Logo-Internet_NZ-250.png)](https://internetnz.nz/)   
 
-[![Logo-Quantum Security](assets/images/Logo-Quantum_Security-125.png)](https://www.quantumsecurity.co.nz/)
+[![Logo-Quantum Security](assets/images/Logo-Quantum_Security-125.png)](https://www.quantumsecurity.co.nz/)   
 
-[![Logo-ZX Security](assets/images/Logo-ZX_Security-150.png)](https://zxsecurity.co.nz/)
+[![Logo-ZX Security](assets/images/Logo-ZX_Security-150.png)](https://zxsecurity.co.nz/)   
 
-[![Logo-SEQA](assets/images/Logo-SEQA-150.png)](https://www.seqa.co.nz/)
+[![Logo-SEQA](assets/images/Logo-SEQA-150.png)](https://www.seqa.co.nz/)   
 
-[![Logo-Snyk](assets/images/Logo-Snyk-225.png)](https://snyk.io/)
+[![Logo-Snyk](assets/images/Logo-Snyk-225.png)](https://snyk.io/)   
 
-[![Logo-Secure Code Warrior](assets/images/Logo-Secure_Code_Warrior.png)](https://securecodewarrior.com/)
+[![Logo-Secure Code Warrior](assets/images/Logo-Secure_Code_Warrior.png)](https://securecodewarrior.com/)   
 
 ### Silver Sponsors
 
-[![Logo-F5 Networks](assets/images/Logo-F5-125.png)](https://www.f5.com/)
+[![Logo-F5 Networks](assets/images/Logo-F5-125.png)](https://www.f5.com/)   
 
-[![Logo-Flux Federation](assets/images/Logo-Flux_Federation-125.png)](https://fluxfederation.com/)
+[![Logo-Flux Federation](assets/images/Logo-Flux_Federation-125.png)](https://fluxfederation.com/)   
 
 Follow us on Twitter [@owaspnz](https://www.twitter.com/owaspnz)
 
