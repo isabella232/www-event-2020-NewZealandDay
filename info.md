@@ -1,7 +1,7 @@
 ### OWASP New Zealand Day
 * [Conference Registration](https://owaspnz2020.eventbrite.com)
 * [Training Registration](https://owaspnz2020-training.eventbrite.com)
-* [Speaker Agreement](/www-policy/speaker-agreement)
+* [Submit Speaker Agreement](https://owasp.wufoo.com/forms/owasp-keynote-speaker-and-trainer-agreement/)
 * [OWASP Code of Conduct](www-policy/operational/code-of-conduct.html)
 * [Join OWASP](/membership)
 

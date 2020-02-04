@@ -9,21 +9,17 @@ region: Oceania
 
 ---
 
-<center>
-
 ![Conference Web Banner](assets/images/Web_Banner-OWASP_NZ_Day_2020.jpg)
 
-##19 - 21 February 2020 - Auckland
+## 19 - 21 February 2020 - Auckland
 
-#Conference and Training Registration are now OPEN.  
+# Conference and Training Registration are now OPEN.  
 
 **Visit our [Conference Registration](https://owaspnz2020.eventbrite.com) and [Training Registration](https://owaspnz2020-training.eventbrite.com) sites, to reserve your places.**
 
-</center>
-
 -----
 
-##Introduction
+## Introduction
 
 We are proud to announce the eleventh OWASP New Zealand Day conference, to be held at the University of Auckland on Friday, February 21st, 2020. OWASP New Zealand Day is a one-day conference dedicated to information security, with an emphasis on secure architecture and development techniques to help Kiwi developers build more secure applications.
 
@@ -38,7 +34,7 @@ Who is it for?
 * Requirements Analysts
 * Software Testers
 
-##Conference Structure
+## Conference Structure
 
 **Date:** Friday, 21 February 2020  
 **Time:** 9:00 a.m. - 6:30 p.m.  
@@ -58,23 +54,23 @@ The main conference is on Friday, the 21st of February, and will have three stre
 
 As a new feature for 2020, we have added a vendor exhibition area in the lower-level lobby. Representatives from each of our Premier Sponsors will be on hand throughout the day, to answer your questions about their products and services. There will be door prize drawings at the Closing Session on Friday. To qualify for the drawings, you will need to visit with each sponsor during the day, and have them stamp your entry card.
 
-##Keynote Speaker
+## Keynote Speaker
 
 We are excited to announce that Jim Manico, founder of Manicode Security and a co-leader of the OWASP Application Security Verification Standard (ASVS), Top Ten Proactive Controls, and Cheat Sheets Projects, will present our opening keynote, entitled "**The Abridged History of Application Security**."
 
-##Training
+## Training
 
 In addition to the main conference on Friday, we are pleased to be offer training opportunities on Wednesday and Thursday, at the same venue. Course details can be found on the **Training** tab of this page, and you can register for training [here](https://owaspnz2020-training.eventbrite.com).
 
 **Training Fees:** $1250.00 for two-day sessions; $625.00 for one-day sessions; $325.00 for half-day sessions (plus EventBrite fees)
 
-##General
+## General
 
 The eleventh OWASP New Zealand Day will be happening thanks to the support provided by the University of Auckland, which will kindly offer the same facilities as those we used in previous years. The main conference will continue to be free, thanks to the generous support of our sponsors.
 
 For any comments, feedback or observations, please don't hesitate to [contact us](mailto:new-zealand-day@owasp.org).
 
-##Registration
+## Registration
 
 Registration opened on 15 December 2019.
 
@@ -84,7 +80,7 @@ Registration for Pre-Conference training is now open, and will close on 12 Febru
 
 Please join our low volume [Google Groups mailing list](https://groups.google.com/a/owasp.org/forum/#!forum/new-zealand-chapter@owasp.org/join) to be notified as further schedule information becomes available, and/or follow us on Twitter ([@owaspnz](https://www.twitter.com/owaspnz)).
 
-##Important Dates
+## Important Dates
 
 * **CFP and CFT Opened:**: 1 October 2019
 * **CFP First-Round Deadline:** 15 November 2019
@@ -96,7 +92,7 @@ Please join our low volume [Google Groups mailing list](https://groups.google.co
 * **Main Conference Date:** 21 February 2020
 * **Conference Registration Deadline:** 21 February 2020 (On-site registration permitted, if space is available)
 
-##Places to Eat and Drink on the Day
+## Places to Eat and Drink on the Day
  
 The University published a [handy map](assets/docs/Retail_Map_City_Campus_2018_v2.pdf) (in 2018), to help you find places to eat around campus.
 
@@ -136,24 +132,14 @@ For more information on our Premier Sponsors, please visit our [About Our Sponso
 
 ### Conference Host
 
-<center>
-
 [![University of Auckland Business School](assets/images/Logo-UofA_Business_School.png)](http://www.auckland.ac.nz/)
 
-</center>
-
 ### Platinum Sponsors
-
-<center>
 
 [![Logo - Insomnia Security Specialists](assets/images/Logo-Insomnia_Security_Specialists-125.png)](https://www.insomniasec.com/)
 [![Logo - Lateral Security](assets/images/Logo-Lateral_Security-125.png)](https://www.lateralsecurity.com/)
 
-</center>
-
 ### Gold Sponsors
-
-<center>
 
 [![Logo - Auth0](assets/images/Logo-Auth0-125.png)](https://auth0.com/)
 [![Logo - Aura Information Security](assets/images/Logo-Aura_Information_Security-125.jpg)](https://www.aurainfosec.com/)
@@ -167,16 +153,10 @@ For more information on our Premier Sponsors, please visit our [About Our Sponso
 [![Logo-Snyk](assets/images/Logo-Snyk-225.png)](https://snyk.io/)
 [![Logo-Secure Code Warrior](assets/images/Logo-Secure_Code_Warrior.png)](https://securecodewarrior.com/)
 
-</center>
-
 ### Silver Sponsors
-
-<center>
 
 [![Logo-F5 Networks](assets/images/Logo-F5-125.png)](https://www.f5.com/)
 [![Logo-Flux Federation](assets/images/Logo-Flux_Federation-125.png)](https://fluxfederation.com/)
-
-</center>
 
 Follow us on Twitter [@owaspnz](https://www.twitter.com/owaspnz)
 
