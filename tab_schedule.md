@@ -14,7 +14,6 @@ tags: nzday2020
 
 <h3 align="center" Friday, 21 February 2020>
 
-<center>
 <table width="100%">
   <tr>
     <td style="width: 4%; vertical-align: top; text-align: right;">08:00</td>
@@ -139,4 +138,3 @@ tags: nzday2020
 -->
   </tr>
 </table>
-</center>
