@@ -3,7 +3,7 @@ title: Sponsors
 displaytext: Call for Sponsorships
 layout:  null
 tab: true
-order: 5
+order: 1
 tags: owaspnz2020
 ---
 

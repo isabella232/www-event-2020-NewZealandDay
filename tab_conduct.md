@@ -3,7 +3,7 @@ title: Conduct
 displaytext: Code of Conduct
 layout:  null
 tab: true
-order: 8
+order: 3
 tags: owaspnz2020
 ---
 

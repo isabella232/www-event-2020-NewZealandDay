@@ -3,7 +3,7 @@ title: Diversity
 displaytext: Diversity Fund
 layout:  null
 tab: true
-order: 6
+order: 2
 tags: owaspnz2020
 ---
 
