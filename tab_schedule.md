@@ -93,7 +93,7 @@ tags: nzday2020
     <td valign="top" align="right">15:00</td>
     <td style="background-color: #B9C2DC; text-align: center"><strong>Keeping Up with the Joneses: Security from a Developer's Perspective</strong><br /><em>Toni James - Lateral Security</em></td>
     <td valign="top" align="right">15:00</td>
-    <td style="background-color: #EEE; text-align: center"><strong>Use OSINT to Keep Up with AWS</strong><br /><em>Oliver (Olly) Ewert - Westpac New Zealand</em></td>
+    <td style="background-color: #EEE; text-align: center"><strong>Use OSINT to Keep Up with AWS</strong><br /><em>Oliver (Olly) Ewert</em></td>
     <td valign="top" align="right">15:00</td>
     <td style="background-color: #EEE; text-align: center">&nbsp;</td>
   </tr>
