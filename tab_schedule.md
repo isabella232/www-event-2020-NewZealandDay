@@ -83,7 +83,11 @@ tags: nzday2020
   </tr>
   <tr>
     <td valign="top" align="right">14:25</td>
-    <td style="background-color: #EEE; text-align: center">&nbsp;<br /><em>Erica Anderson (@Sputina) - SafeStack</em></td>
+    <td style="background-color: #EEE; text-align: center">
+      <strong>Small, but fierce (but still small)</strong>  
+      <br />  
+      <em>Erica Anderson (@Sputina) - SafeStack</em>
+    </td>
     <td valign="top" align="right">14:25</td>
     <td style="background-color: #B9C2DC; text-align: center"><strong>Web App Attacks of the Modern World</strong><br /><em>Karan Sharma</em></td>
     <td valign="top" align="right">&nbsp;</td>
@@ -105,7 +109,7 @@ tags: nzday2020
     <td valign="top" align="right" rowspan="2">16:00</td>
     <td style="background-color: #EEE; text-align: center" rowspan="2"><strong>Same-origin policy: The Core of Web Security</strong><br /><em>Kirk Jackson - Red Shield</em></td>
     <td valign="top" align="right">16:00</td>
-    <td style="background-color: #EEE; text-align: center">&nbsp;<br /><em>Daniel Zollinger - SafeStack</em></td>
+    <td style="background-color: #EEE; text-align: center"><strong>Security in our code reviews? Check!</strong><br /><em>Daniel Zollinger - SafeStack</em></td>
     <td valign="top" align="right" rowspan="2">16:00</td>
     <td style="background-color: #EEE; text-align: center" rowspan="2"><strong>OWASP SAMM2: Your Dynamic Software Security Journey</strong><br /><em>John Ellingsworth - Co-Author, OWASP SAMM Project</em></td>
   </tr>
