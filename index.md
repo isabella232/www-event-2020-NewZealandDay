@@ -1,6 +1,6 @@
 ---
 
-layout: full-width
+layout: col-sidebar
 title: OWASP NZ Day 2020
 tags: nzday2020
 currency: nzd
