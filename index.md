@@ -145,27 +145,20 @@ For more information on our Premier Sponsors, please visit our [About Our Sponso
 
 ### Platinum Sponsors
 
-[![Logo - Insomnia Security Specialists](assets/images/Logo-Insomnia_Security_Specialists-125.png)](https://www.insomniasec.com/){:width="400px" target="_blank" rel="sponsored"} 
-[![Logo - Lateral Security](assets/images/Logo-Lateral_Security-125.png)](https://www.lateralsecurity.com/){:width="400px" target="_blank" rel="sponsored"}   
+|:---:|:---:|
+|[![Logo - Insomnia Security Specialists](assets/images/Logo-Insomnia_Security_Specialists-125.png)](https://www.insomniasec.com/){:width="400px" target="_blank" rel="sponsored"}|[![Logo - Lateral Security](assets/images/Logo-Lateral_Security-125.png)](https://www.lateralsecurity.com/){:width="400px" target="_blank" rel="sponsored"}|
 
 ### Gold Sponsors
 
-[![Logo - Auth0](assets/images/Logo-Auth0-125.png)](https://auth0.com/){:width="250px" target="_blank" rel="sponsored"} 
-[![Logo - Aura Information Security](assets/images/Logo-Aura_Information_Security-125.jpg)](https://www.aurainfosec.com/){:width="250px" target="_blank" rel="sponsored"} 
-[![Logo - Checkmarx](assets/images/Logo-Checkmarx-125.png)](https://www.checkmarx.com/){:width="250px" target="_blank" rel="sponsored"}   
-
-[![Logo-Internet NZ](assets/images/Logo-Internet_NZ-250.png)](https://internetnz.nz/){:width="250px" target="_blank" rel="sponsored"} 
-[![Logo-Quantum Security](assets/images/Logo-Quantum_Security-125.png)](https://www.quantumsecurity.co.nz/){:width="250px" target="_blank" rel="sponsored"} 
-[![Logo-ZX Security](assets/images/Logo-ZX_Security-150.png)](https://zxsecurity.co.nz/){:width="250px" target="_blank" rel="sponsored"}
-
-[![Logo-SEQA](assets/images/Logo-SEQA-150.png)](https://www.seqa.co.nz/){:width="250px" target="_blank" rel="sponsored"} 
-[![Logo-Snyk](assets/images/Logo-Snyk-225.png)](https://snyk.io/){:width="250px" target="_blank" rel="sponsored"} 
-[![Logo-Secure Code Warrior](assets/images/Logo-Secure_Code_Warrior.png)](https://securecodewarrior.com/){:width="250px" target="_blank" rel="sponsored"}   
+|:---:|:---:|:---:|
+|[![Logo - Auth0](assets/images/Logo-Auth0-125.png)](https://auth0.com/){:width="250px" target="_blank" rel="sponsored"}|[![Logo - Aura Information Security](assets/images/Logo-Aura_Information_Security-125.jpg)](https://www.aurainfosec.com/){:width="250px" target="_blank" rel="sponsored"}|[![Logo - Checkmarx](assets/images/Logo-Checkmarx-125.png)](https://www.checkmarx.com/){:width="250px" target="_blank" rel="sponsored"}|
+|[![Logo-Internet NZ](assets/images/Logo-Internet_NZ-250.png)](https://internetnz.nz/){:width="250px" target="_blank" rel="sponsored"}|[![Logo-Quantum Security](assets/images/Logo-Quantum_Security-125.png)](https://www.quantumsecurity.co.nz/){:width="250px" target="_blank" rel="sponsored"}|[![Logo-ZX Security](assets/images/Logo-ZX_Security-150.png)](https://zxsecurity.co.nz/){:width="250px" target="_blank" rel="sponsored"}|
+|[![Logo-SEQA](assets/images/Logo-SEQA-150.png)](https://www.seqa.co.nz/){:width="250px" target="_blank" rel="sponsored"}|[![Logo-Snyk](assets/images/Logo-Snyk-225.png)](https://snyk.io/){:width="250px" target="_blank" rel="sponsored"}|[![Logo-Secure Code Warrior](assets/images/Logo-Secure_Code_Warrior.png)](https://securecodewarrior.com/){:width="250px" target="_blank" rel="sponsored"}|   
 
 ### Silver Sponsors
 
-[![Logo-F5 Networks](assets/images/Logo-F5-125.png)](https://www.f5.com/){:width="250px" target="_blank" rel="sponsored"} 
-[![Logo-Flux Federation](assets/images/Logo-Flux_Federation-125.png)](https://fluxfederation.com/)   
+|:---:|:---:|
+|[![Logo-F5 Networks](assets/images/Logo-F5-125.png)](https://www.f5.com/){:width="250px" target="_blank" rel="sponsored"}|[![Logo-Flux Federation](assets/images/Logo-Flux_Federation-125.png)](https://fluxfederation.com/)|   
 
 Follow us on Twitter [@owaspnz](https://www.twitter.com/owaspnz)
 
