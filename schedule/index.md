@@ -13,7 +13,7 @@ region: Oceania
 
 # Conference Schedule
 
-## Friday, 21 February 2020>
+## Friday, 21 February 2020
 
 <table width="100%">
   <tr>
