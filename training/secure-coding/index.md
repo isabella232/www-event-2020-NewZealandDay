@@ -27,7 +27,7 @@ As part of this course, we will explore the use of third-party security librarie
 
 **Course Fee:** NZ $1,250.00 (plus EventBrite fees)
 
-**Registration Site: [https://owaspnz2020-training.eventbrite.com](https://owaspnz2020-training.eventbrite.com)
+**Registration Site:** [https://owaspnz2020-training.eventbrite.com](https://owaspnz2020-training.eventbrite.com)
 
 **Prerequisite Skills:**
 
