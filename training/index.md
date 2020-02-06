@@ -11,7 +11,7 @@ tags: nzday2020
 
 ## OWASP New Zealand Day 2020
 
-### Training Registration is now open, and closes on Wednesday, 12 February - *Visit [EventBrite](https://owaspnz2020-training.eventbrite.com) to secure your seats*
+### Training Registration is now open, and closes on Wednesday, 12 February - *Visit [EventBrite](https://owaspnz2020-training.eventbrite.com) NOW to secure your seats*
 
 ### Team Discounts
 
@@ -39,7 +39,7 @@ In addition the main conference on Friday, we are pleased to be offer nine (9) t
 
 **Jim's OWASP Affiliations:** Co-Leader, OWASP Application Security Verification Standard (ASVS) Project and OWASP Proactive Controls Project   
 **Registration Fee:** $1,250.00 (plus EventBrite fees)   
-**[Training Registration Page](https://owaspnz2020-training.eventbrite.com)**
+**Registration Site:** [https://owaspnz2020-training.eventbrite.com](https://owaspnz2020-training.eventbrite.com)   
 
 -----------------
 
@@ -52,7 +52,7 @@ In addition the main conference on Friday, we are pleased to be offer nine (9) t
 **Instructor:** Sven Schleier, Seven Consulting   
 **Sven's OWASP Affiliations:** Co-Leader, OWASP Mobile Security Testing Guide (MSTG) Project; Leader, OWASP Mobile Hacking Playground Project; Contributor, OWASP ASVS Project   
 **Registration Fee:** $625.00 (plus EventBrite fees)   
-**[Training Registration Page](https://owaspnz2020-training.eventbrite.com)**
+**Registration Site:** [https://owaspnz2020-training.eventbrite.com](https://owaspnz2020-training.eventbrite.com)   
 
 -------------------
 
@@ -62,15 +62,11 @@ In addition the main conference on Friday, we are pleased to be offer nine (9) t
 
 **Date:** Thursday, 20 February 2020   
 **Time:** 8:45 a.m. - 5:30 p.m.   
-**Instructors:** 
-
-* John DiLeo, OWASP New Zealand Chapter
-* John Ellingsworth   
-
+**Instructors:** John Ellingsworth and Dr. John DiLeo      
 **John DiLeo's OWASP Affiliations:** Contributor, OWASP Software Assurance Maturity Model (SAMM) Project; Chapter Leader, OWASP New Zealand; Co-Leader, OWASP Application Security Curriculum Project   
 **John Ellingsworth's OWASP Affiliations:** Contributor, OWASP Software Assurance Maturity Model (SAMM) Project    
 **Registration Fee:** $625.00 (plus EventBrite fees)<br />
-**[Training Registration Page](https://owaspnz2020-training.eventbrite.com)**
+**Registration Site:** [https://owaspnz2020-training.eventbrite.com](https://owaspnz2020-training.eventbrite.com)   
 
 ### [Mobile Security Testing Guide Hands-On: iOS Edition](mstg-ios/)
 
@@ -79,7 +75,7 @@ In addition the main conference on Friday, we are pleased to be offer nine (9) t
 **Instructor:** Sven Schleier, Seven Consulting   
 **Sven's OWASP Affiliations:** Co-Leader, OWASP Mobile Security Testing Guide (MSTG) Project; Leader, OWASP Mobile Hacking Playground Project; Contributor, OWASP ASVS Project   
 **Registration Fee:** $625.00 (plus EventBrite fees)   
-**[Training Registration Page](https://owaspnz2020-training.eventbrite.com)**
+**Registration Site:** [https://owaspnz2020-training.eventbrite.com](https://owaspnz2020-training.eventbrite.com)   
 
 ----------------
 
@@ -91,7 +87,7 @@ In addition the main conference on Friday, we are pleased to be offer nine (9) t
 **Time:** 1:45 - 5:30 p.m.   
 **Instructor:** Kendra Ash, Vacasa   
 **Registration Fee:** $325.00 (plus EventBrite fees)<br />
-**[Training Registration Page](https://owaspnz2020-training.eventbrite.com)**
+**Registration Site:** [https://owaspnz2020-training.eventbrite.com](https://owaspnz2020-training.eventbrite.com)   
 
 ### Cancelled Classes
 

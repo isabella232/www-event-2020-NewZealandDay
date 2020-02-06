@@ -4,7 +4,9 @@ title: Call for Sponsorships
 tags: nzday2020
 ---
 
-![Conference Web Banner](../assets/images/Web_Banner-OWASP_NZ_Day_2020.jpg)
+[![Conference Web Banner](../assets/images/Web_Banner-OWASP_NZ_Day_2020.jpg)](/www-event-2020-NewZealandDay)
+
+[Back to Conference Home Page](/www-event-2020-NewZealandDay)
 
 # Call for Sponsorships
 
@@ -46,14 +48,14 @@ express interest in supporting the conference as a sponsor, please
 
 |        |Platinum    |Gold    |Silver    |Bronze    |A La Carte    |
 |-------:|:----------:|:------:|:--------:|:--------:|:------------:|
-|**Enrolment Limit**|2(**SOLD OUT**)|9(**SOLD OUT**) | -- | -- |*Varies*|
+|**Enrolment Limit**|2<br>(**SOLD OUT**)|9<br>(**SOLD OUT**) | -- | -- |*Varies*|
 |**General Rate**|$6,000|$4,000|$2,500|$1,500|*Varies*|
 |**OWASP [Corporate Member](/supporters/) Rate (15% discount)**|$5,100|$3,400|$2,125|$1,500|N/A|
 |**A La Carte Sponsorship Discount**|**15%**|**10%**|**5%**| -- | -- |
-|**Exhibition Space**|**6m x 3m** 3 tables|**3m x 3m** 2 tables|**2m x 2.5m** 1 table|**2m x 2.5m** 1 table|No|
+|**Exhibition Space**|**6m x 3m**<br>3 tables|**3m x 3m**<br>2 tables|**2m x 2.5m**<br>1 table|**2m x 2.5m**<br>1 table|No|
 |**Banner in Conference Lobby** (see notes)|**Yes**|No|No|No|No|
 |**Banner at Side of Stage** (see notes)|**Yes (3)**|**Yes (1)**|No|No|No|
-|**Banner at Pre-Conference Reception (see notes)|**Yes**|**Yes**|**Yes**|No|No|
+|**Banner at Pre-Conference Reception** (see notes)|**Yes**|**Yes**|**Yes**|No|No|
 |**Company Description on Conference Web Page**|**300 words**|**200 words**|**150 words**|**100 words**|*Varies*|
 |**Pre-Conference Reception Tickets**|**8**|**6**|**4**|**2**|*Varies*|
 |**Reserved Conference Passes** (see notes)|**20**|**15**|**10**|**5**|*Varies*|

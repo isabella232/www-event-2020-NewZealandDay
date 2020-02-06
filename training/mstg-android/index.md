@@ -5,7 +5,9 @@ displaytext: MSTG Hands-on - Android Edition
 tags: nzday2020
 ---
 
-![Conference Web Banner](../../assets/images/Web_Banner-OWASP_NZ_Day_2020.jpg)
+[![Conference Web Banner](../../assets/images/Web_Banner-OWASP_NZ_Day_2020.jpg)](/www-event-2020-NewZealandDay)
+
+[Back to Conference Home Page](/www-event-2020-NewZealandDay)
 
 # Mobile Security Testing Guide Hands-On: Android Edition
 
@@ -80,11 +82,9 @@ The following technical prerequisites need to be fulfilled by participants in or
     * All tools and scripts used during the class
     * Android apps used for the hands-on exercises
 
-**Instructor:** Sven Schleier
+**Instructor:** Sven Schleier, Seven Consulting
 
-**Instructor's Organisation:** Seven Consulting
-
-== Course Objectives ==
+## Course Objectives
 
 Key take-aways for attendees include:
 
@@ -95,7 +95,7 @@ Key take-aways for attendees include:
 * Basic introduction into dynamic instrumentation by using Frida and different frameworks on top of Frida (e.g. House)
 * Basic Reverse Engineering of Android Apps to bypass client-side security controls, such as disabling Root Detection or SSL Pinning
 
-== Course Outline ==
+## Course Outline
 
 * Overview of Android Platform and Security Mechanisms
   * Android Security Architecture (Bootloader, Permission model, Sandboxing etc.)
