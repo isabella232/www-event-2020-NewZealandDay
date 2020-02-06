@@ -7,6 +7,9 @@ tags: nzday2020
 
 [![Conference Web Banner](../../assets/images/Web_Banner-OWASP_NZ_Day_2020.jpg)](/www-event-2020-NewZealandDay)
 
+[Back to Pre-Conference TrainingPage](/www-event-2020-NewZealandDay/training/)
+{: style="text-align: right; font-size: small;" }
+
 [Back to Conference Home Page](/www-event-2020-NewZealandDay)
 {: style="text-align: right; font-size: small;" }
 
@@ -39,7 +42,7 @@ This course will cover the what, why, when, and how of threat modelling applicat
 * The basics of threat modelling
 * Ways to gain adoption by your peers
 
-**Instructor:** Kendra Ash, [Vacasa, https://www.vacasa.com/]    
+**Instructor:** Kendra Ash, [Vacasa](https://www.vacasa.com/)    
 
 ## Course Objective
 
@@ -47,7 +50,7 @@ The objective of this class is to provide the audience with tools to gain adopti
 
 ## Course Overview
 
-If you are a software, DevOps, QA or security engineer and want to learn how to threat model API’s in AWS this course is for you. This course will cover the what, why, when, and how of threat modeling applications in your organization. The bulk of this course will be based on the book ''[https://www.amazon.com/dp/B00IG71FAS Threat Modeling: Designing for Security],'' by Adam Shostack, and will leverage a variant of the ''[https://www.microsoft.com/en-us/download/details.aspx?id=20303 Elevation of Privilege]'' card game. 
+If you are a software, DevOps, QA or security engineer and want to learn how to threat model API’s in AWS this course is for you. This course will cover the what, why, when, and how of threat modeling applications in your organization. The bulk of this course will be based on the book *[Threat Modeling: Designing for Security](https://www.amazon.com/dp/B00IG71FAS)*, by Adam Shostack, and will leverage a variant of the *[Elevation of Privilege](https://www.microsoft.com/en-us/download/details.aspx?id=20303)* card game. 
 
 I will also dive into the approach I have used, as a Security Engineer, to gain adoption from engineering teams. After gaining an understanding of threat modelling, we will dive into how we can automate security checks for an AWS environment — leveraging the AWS API tool to provide quick engineering feedback on ways to improve the security of their infrastructure. If time allows we will discuss the success with a monthly DevOps report on AWS, GitHub, Incidents, Security and more for each team in the department.
 

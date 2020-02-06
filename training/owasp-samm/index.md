@@ -7,6 +7,9 @@ tags: nzday2020
 
 [![Conference Web Banner](../../assets/images/Web_Banner-OWASP_NZ_Day_2020.jpg)](/www-event-2020-NewZealandDay)
 
+[Back to Pre-Conference TrainingPage](/www-event-2020-NewZealandDay/training/)
+{: style="text-align: right; font-size: small;" }
+
 [Back to Conference Home Page](/www-event-2020-NewZealandDay)
 {: style="text-align: right; font-size: small;" }
 
@@ -49,15 +52,15 @@ Incorporating a mix of lectures and workshops, this training delivers an in-dept
   * Setting Improvement Targets
 
 * Part Three: OWASP SAMM Tools
- * Assessment Toolkit
- * Benchmark Project
- * Relationships with Other SAMM Projects and Tools
+  * Assessment Toolkit
+  * Benchmark Project
+  * Relationships with Other SAMM Projects and Tools
 
 * Part Four: OWASP SAMM Best Practices
- * Choosing the Right Starting Points
- * Monitoring and Metrics
- * Achieving Security by Default
- * Critical Success Factors
+  * Choosing the Right Starting Points
+  * Monitoring and Metrics
+  * Achieving Security by Default
+  * Critical Success Factors
 
 ## Course Description
 
