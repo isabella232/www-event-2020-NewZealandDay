@@ -5,7 +5,10 @@ displaytext: Pre-Conference Training - 19-20 February
 tags: nzday2020
 ---
 
-![Conference Web Banner](../assets/images/Web_Banner-OWASP_NZ_Day_2020.jpg)
+[![Conference Web Banner](../../assets/images/Web_Banner-OWASP_NZ_Day_2020.jpg)](/www-event-2020-NewZealandDay)
+
+[Back to Conference Home Page](/www-event-2020-NewZealandDay)
+{: style="text-align: right; font-size: small;" }
 
 # Pre-Conference Training
 
@@ -21,6 +24,12 @@ We're offering the following discount rates:
 
 * 15%, for five (5) or more total registrations, in a single purchase; or
 * 25%, for 10 or more registrations, in a single purchase.
+
+### Training Check-in
+
+* The registration desk will open at 8:00 a.m. each day. For the Thursday afternoon class, check-in will open at 12:30 p.m.
+
+On Wednesday, training check-in will be held in Case Room 3, on the lower level
 
 ## Training Schedule
 
