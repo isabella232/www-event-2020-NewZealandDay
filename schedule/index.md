@@ -13,12 +13,11 @@ region: Oceania
 
 # Conference Schedule
 
-
-<h3 align="center" Friday, 21 February 2020>
+## Friday, 21 February 2020>
 
 <table width="100%">
   <tr>
-    <td style="width: 4%; vertical-align: top; text-align: right;">08:00</td>
+    <td style="width: 8%; vertical-align: top; text-align: right;">08:00</td>
     <td colspan="5" style="background-color: #8595C2; text-align: center;">Registration Opens - Main Foyer, Owen G. Glenn Building</td>
   </tr>
   <tr>
@@ -30,11 +29,11 @@ region: Oceania
     <td colspan="5" style="background-color: #8595C2; text-align: center;"><b>Opening Keynote: The Abridged History of Application Security</b><br /><i>Jim Manico - Founder, Manicode Security; Co-Leader, OWASP Application Security Verification Standard (ASVS) and Proactive Controls Projects</i></td>
   </tr>
   <tr>
-    <td width="5%" valign="top" align="right">&nbsp;</td>
+    <td width="8%" valign="top" align="right">&nbsp;</td>
     <td style="background-color: #B9C2DC; text-align: center" width="29%"><strong>Upstairs Auditorium (Room 115)<br />Track One: Introductory / Management</strong></td>
-    <td width="4%" valign="top" align="right">&nbsp;</td>
+    <td width="8%" valign="top" align="right">&nbsp;</td>
     <td style="background-color: #B9C2DC; text-align: center" width="29%"><strong>Downstairs Auditorium (Room 098)<br />Track Two: Technical</strong></td>
-    <td width="4%" valign="top" align="right">&nbsp;</td>
+    <td width="8%" valign="top" align="right">&nbsp;</td>
     <td style="background-color: #B9C2DC; text-align: center"><strong>Downstairs Lecture Hall OGGB5 (Room 051)<br />Track Three: OWASP Projects and Tools</strong></td>
   </tr>
   <tr>
