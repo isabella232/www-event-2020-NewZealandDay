@@ -67,7 +67,7 @@ We are excited to announce that Jim Manico, founder of Manicode Security and a c
 
 ## Training
 
-In addition to the main conference on Friday, we are pleased to be offer training opportunities on Wednesday and Thursday, at the same venue. Course details can be found on the **Training** tab of this page, and you can register for training [here](https://owaspnz2020-training.eventbrite.com).
+In addition to the main conference on Friday, we are pleased to be offer training opportunities on Wednesday and Thursday, at the same venue. Course details can be found on the **[Pre-Conference Training](training/)** page, and you can register for training on [EventBrite](https://owaspnz2020-training.eventbrite.com).
 
 **Training Fees:** $1250.00 for two-day sessions; $625.00 for one-day sessions; $325.00 for half-day sessions (plus EventBrite fees)
 
@@ -81,7 +81,7 @@ For any comments, feedback or observations, please don't hesitate to [contact us
 
 Registration opened on 15 December 2019.
 
-To register for the main conference, visit the [OWASP NZ Day 2020 Registration Site](https://owaspnz2020.eventbrite.com) on EventBrite.
+To register for the main conference, visit the [OWASP NZ Day 2020 Registration Site](https://owaspnz2020.eventbrite.com) on EventBrite. Walk-in registrations will be accepted *only if* the conference has not reached capacity.
 
 Registration for Pre-Conference training is now open, and will close on 12 February, or when all seats are sold. To reserve training seats for you and your team, visit the [OWASP NZ Day 2020 Pre-Conference Training Registration Site](https://owaspnz2020-training.eventbrite.com) on EventBrite. For more information on the training classes offered, click the **Training** tab above.
 

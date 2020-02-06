@@ -184,5 +184,7 @@ Whether it’s apps that help connect businesses to their customers or apps that
 
 Our platform was purpose built by people who have experience running energy companies, so we know it works. Flux is a subsidiary of Meridian Energy, New Zealand's largest energy generator and its fourth-largest retailer. We're a team of around 150 software developers, test analysts, designers, customer experience, and product people.
 
+**Special Thanks** to Flux Federation for their generous additional donation, in support of our efforts to provide a more inclusive and welcoming environment. The additional funds allowed us to provide fitted-cut ("women's") t-shirt sizes, rather than having only "unisex" (straight-cut, "men's") sizes. 
+
 ---------------------
 
