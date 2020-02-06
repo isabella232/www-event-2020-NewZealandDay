@@ -1,15 +1,15 @@
 ---
 title: Volunteers
 displaytext: Call for Volunteers
-layout:  null
-tab: true
-order: 3
+layout: full-width
 tags: nzday2020
 ---
 
-![Conference Web Banner](assets/images/Web_Banner-OWASP_NZ_Day_2020.jpg)
+![Conference Web Banner](../assets/images/Web_Banner-OWASP_NZ_Day_2020.jpg)
 
 # Call for Volunteers
+
+## OWASP New Zealand Day 2020
 
 ### We're still looking for a few good women and men, to assist with conference preparations and to help things go smoothly during the event.
 

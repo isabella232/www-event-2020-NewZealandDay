@@ -1,15 +1,15 @@
 ---
+layout: full-width
 title: International
 displaytext: International Attendees
-layout:  null
-tab: true
-order: 6
 tags: nzday2020
 ---
 
-![Conference Web Banner](assets/images/Web_Banner-OWASP_NZ_Day_2020.jpg)
+![Conference Web Banner](../assets/images/Web_Banner-OWASP_NZ_Day_2020.jpg)
 
 # Information for International Travellers
+
+## OWASP New Zealand Day 2020
 
 Effective on 1 October 2019, new travel requirements took effect for visitors to New Zealand from Visa Waiver countries.
 

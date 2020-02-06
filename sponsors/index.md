@@ -1,9 +1,8 @@
 ---
-
 layout: full-width
 title: Sponsors
 displaytext: About Our Sponsors
-
+tags: nzday2020
 ---
 
 # About Our Sponsors

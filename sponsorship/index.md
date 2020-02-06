@@ -1,15 +1,15 @@
 ---
-title: Sponsors
+layout: full-width
+title: Sponsorships
 displaytext: Call for Sponsorships
-layout:  null
-tab: true
-order: 4
 tags: nzday2020
 ---
 
-![Conference Web Banner](assets/images/Web_Banner-OWASP_NZ_Day_2020.jpg)
+![Conference Web Banner](../assets/images/Web_Banner-OWASP_NZ_Day_2020.jpg)
 
 # Call for Sponsorships
+
+## OWASP New Zealand Day 2020
 
 OWASP New Zealand Day 2020 will be held in Auckland on Friday, 21 February, 2020, and is a security conference entirely dedicated to
 application security. he conference is once again being hosted by the University of Auckland with their support and assistance. OWASP New Zealand Day is a very low-cost event, and requires sponsor support to help be an instructive and quality event for the New Zealand community. OWASP is strictly not for profit. The sponsorship money will be used to help make OWASP New Zealand Day 2020 a compelling, and valuable experience for all attendees.

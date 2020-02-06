@@ -1,6 +1,6 @@
 ---
 
-layout: col-sidebar
+layout: full-width
 title: OWASP NZ Day 2020
 tags: nzday2020
 currency: nzd
@@ -19,7 +19,17 @@ region: Oceania
 
 -----
 
-## Introduction
+## Important Links
+
+* [Pre-Conference Training - 19-21 February](training/)
+* [Conference Schedule - 21 February](schedule/)
+* [About Our Sponsors](sponsors/)
+* [Call for Volunteers](volunteers/)
+* [Call for Sponsorships](sponsorship/)
+* [Diversity Fund](diversity-fund/)
+* [International Attendees](international/)
+* [Code of Conduct](conduct/)
+
 
 We are proud to announce the eleventh OWASP New Zealand Day conference, to be held at the University of Auckland on Friday, February 21st, 2020. OWASP New Zealand Day is a one-day conference dedicated to information security, with an emphasis on secure architecture and development techniques to help Kiwi developers build more secure applications.
 
