@@ -239,7 +239,7 @@ tags: nzday2020
   </tr>
   <tr>
     <td style="vertical-align: top; text-align: right;">18:05</td>
-    <td colspan="5" style="background-color: #B9C2DC; text-align: center">
+    <td colspan="5" style="background-color: #D98B66; text-align: center;">
       <strong>Wrap Up - Closing Remarks, Recognition, Prize Giving</strong>
       <br />
       <em>Post-Conference: Time to go out and socialise, for those interested</em>
