@@ -27,9 +27,10 @@ We're offering the following discount rates:
 
 ### Training Check-in
 
-* The registration desk will open at 8:00 a.m. each day. For the Thursday afternoon class, check-in will open at 12:30 p.m.
+The registration desk will open at 8:00 a.m. each day. For the Thursday afternoon class, check-in will open at 1:00 p.m.
 
-On Wednesday, training check-in will be held in Case Room 3, on the lower level
+* On Wednesday, training check-in will be held in Case Room 3, on the lower level;
+* On Thursday, training check-in will be in the lower-level foyer
 
 ## Training Schedule
 
