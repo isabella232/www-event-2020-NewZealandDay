@@ -14,6 +14,8 @@ region: Oceania
 
 **Visit our [Conference Registration](https://owaspnz2020.eventbrite.com) and [Training Registration](https://owaspnz2020-training.eventbrite.com) sites, to reserve your places.**
 
+**Training Registration CLOSES on Wednesday, 12 February. Don't miss out!**
+
 -----
 
 ## Important Links
@@ -83,7 +85,7 @@ Registration opened on 15 December 2019.
 
 To register for the main conference, visit the [OWASP NZ Day 2020 Registration Site](https://owaspnz2020.eventbrite.com) on EventBrite. Walk-in registrations will be accepted *only if* the conference has not reached capacity.
 
-Registration for Pre-Conference training is now open, and will close on 12 February, or when all seats are sold. To reserve training seats for you and your team, visit the [OWASP NZ Day 2020 Pre-Conference Training Registration Site](https://owaspnz2020-training.eventbrite.com) on EventBrite. For more information on the training classes offered, click the **Training** tab above.
+Registration for Pre-Conference training is now open, and will close on 12 February, or when all seats are sold. To reserve training seats for you and your team, visit the [Training Registration Site](https://owaspnz2020-training.eventbrite.com) on EventBrite. For more information on the training classes offered, visit the **[Pre-Conference Training](training/)** page.
 
 Please join our low volume [Google Groups mailing list](https://groups.google.com/a/owasp.org/forum/#!forum/new-zealand-chapter@owasp.org/join) to be notified as further schedule information becomes available, and/or follow us on Twitter ([@owaspnz](https://www.twitter.com/owaspnz)).
 
@@ -143,34 +145,26 @@ For more information on our Premier Sponsors, please visit our [About Our Sponso
 
 ### Platinum Sponsors
 
-[![Logo - Insomnia Security Specialists](assets/images/Logo-Insomnia_Security_Specialists-125.png)](https://www.insomniasec.com/)   
-
-[![Logo - Lateral Security](assets/images/Logo-Lateral_Security-125.png)](https://www.lateralsecurity.com/)   
+[![Logo - Insomnia Security Specialists](assets/images/Logo-Insomnia_Security_Specialists-125.png)](https://www.insomniasec.com/){:width="400px" target="_blank" rel="sponsored"} 
+[![Logo - Lateral Security](assets/images/Logo-Lateral_Security-125.png)](https://www.lateralsecurity.com/){:width="400px" target="_blank" rel="sponsored"}   
 
 ### Gold Sponsors
 
-[![Logo - Auth0](assets/images/Logo-Auth0-125.png)](https://auth0.com/)   
+[![Logo - Auth0](assets/images/Logo-Auth0-125.png)](https://auth0.com/){:width="250px" target="_blank" rel="sponsored"} 
+[![Logo - Aura Information Security](assets/images/Logo-Aura_Information_Security-125.jpg)](https://www.aurainfosec.com/){:width="250px" target="_blank" rel="sponsored"} 
+[![Logo - Checkmarx](assets/images/Logo-Checkmarx-125.png)](https://www.checkmarx.com/){:width="250px" target="_blank" rel="sponsored"}   
 
-[![Logo - Aura Information Security](assets/images/Logo-Aura_Information_Security-125.jpg)](https://www.aurainfosec.com/)   
+[![Logo-Internet NZ](assets/images/Logo-Internet_NZ-250.png)](https://internetnz.nz/){:width="250px" target="_blank" rel="sponsored"} 
+[![Logo-Quantum Security](assets/images/Logo-Quantum_Security-125.png)](https://www.quantumsecurity.co.nz/){:width="250px" target="_blank" rel="sponsored"} 
+[![Logo-ZX Security](assets/images/Logo-ZX_Security-150.png)](https://zxsecurity.co.nz/){:width="250px" target="_blank" rel="sponsored"}
 
-[![Logo - Checkmarx](assets/images/Logo-Checkmarx-125.png)](https://www.checkmarx.com/)   
-
-[![Logo-Internet NZ](assets/images/Logo-Internet_NZ-250.png)](https://internetnz.nz/)   
-
-[![Logo-Quantum Security](assets/images/Logo-Quantum_Security-125.png)](https://www.quantumsecurity.co.nz/)   
-
-[![Logo-ZX Security](assets/images/Logo-ZX_Security-150.png)](https://zxsecurity.co.nz/)   
-
-[![Logo-SEQA](assets/images/Logo-SEQA-150.png)](https://www.seqa.co.nz/)   
-
-[![Logo-Snyk](assets/images/Logo-Snyk-225.png)](https://snyk.io/)   
-
-[![Logo-Secure Code Warrior](assets/images/Logo-Secure_Code_Warrior.png)](https://securecodewarrior.com/)   
+[![Logo-SEQA](assets/images/Logo-SEQA-150.png)](https://www.seqa.co.nz/){:width="250px" target="_blank" rel="sponsored"} 
+[![Logo-Snyk](assets/images/Logo-Snyk-225.png)](https://snyk.io/){:width="250px" target="_blank" rel="sponsored"} 
+[![Logo-Secure Code Warrior](assets/images/Logo-Secure_Code_Warrior.png)](https://securecodewarrior.com/){:width="250px" target="_blank" rel="sponsored"}   
 
 ### Silver Sponsors
 
-[![Logo-F5 Networks](assets/images/Logo-F5-125.png)](https://www.f5.com/)   
-
+[![Logo-F5 Networks](assets/images/Logo-F5-125.png)](https://www.f5.com/){:width="250px" target="_blank" rel="sponsored"} 
 [![Logo-Flux Federation](assets/images/Logo-Flux_Federation-125.png)](https://fluxfederation.com/)   
 
 Follow us on Twitter [@owaspnz](https://www.twitter.com/owaspnz)
