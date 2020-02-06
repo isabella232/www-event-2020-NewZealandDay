@@ -1,6 +1,6 @@
 ---
 layout: full-width
-title: Mstg-android
+title: OWASP NZ Day Training
 displaytext: MSTG Hands-on - Android Edition
 tags: nzday2020
 ---

@@ -1,6 +1,6 @@
 ---
 layout: full-width
-title: Owasp-samm
+title: OWASP NZ Day Training
 displaytext: Bootstrap and Improve Your SDLC with OWASP SAMM
 tags: nzday2020
 ---

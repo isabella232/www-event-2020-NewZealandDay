@@ -1,6 +1,6 @@
 ---
 layout: full-width
-title: Mstg-ios
+title: OWASP NZ Day Training
 displaytext: MSTG Hands-on - iOS Edition
 tags: nzday2020
 ---

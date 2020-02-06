@@ -1,7 +1,6 @@
 ---
 layout: full-width
-title: Sponsors
-displaytext: About Our Sponsors
+title: About Our Sponsors
 tags: nzday2020
 ---
 
@@ -11,7 +10,7 @@ tags: nzday2020
 
 ### Platinum Sponsors
 
-####[Insomnia Security Specialists](https://www.insomniasec.com)
+#### [Insomnia Security Specialists](https://www.insomniasec.com)
 
 ![Logo - Insomnia Security Specialists](../assets/images/Logo-Insomnia_Security_Specialists-125.png)
 
@@ -21,7 +20,10 @@ With offices in Auckland, Wellington and Melbourne, as well as global partners a
 
 Specialising in offensive security testing services, our teams regularly attend specialist training and conduct in-house research and tool development, ensuring that they are always aware of current attacks and exploitation techniques. With a range of services to cover most technical security testing requirements, Insomnia Security are the team to help you rest secured.
 
-####[Lateral Security](https://www.lateralsecurity.com/)
+---------------------
+
+#### [Lateral Security](https://www.lateralsecurity.com/)
+
 ![Logo - Lateral Security](../assets/images/Logo-Lateral_Security-125.png)
 
 Lateral Security is New Zealand’s leading independent IT security company providing tailored information security testing and advisory services.
@@ -33,6 +35,8 @@ Lateral Security has 30 staff in offices located in Wellington, Auckland, Christ
 Clients include businesses and government agencies with the toughest security compliance requirements, including those in the financial services and telecommunications.
 
 Our company vision: "To improve the IT security and safety of our customers and all New Zealanders"
+
+---------------------
 
 ### Gold Sponsors
 
@@ -50,6 +54,8 @@ Our leadership team is comprised of industry leaders and domain experts, bringin
 
 We help the very best businesses and organizations solve identity.
 
+---------------------
+
 #### [Aura Information Security](https://www.aurainfosec.com/)
 
 ![Logo - Aura Information Security](../assets/images/Logo-Aura_Information_Security-125.jpg)
@@ -64,6 +70,8 @@ With teams based in New Zealand and Australia, our people are our best asset. Al
 
 Aura Information Security is an independent division of Kordia Limited, a leading provider of mission-critical networks across New Zealand and Australia. At Kordia, our people are your network. We bring together professionals from diverse disciplines, with complementary skills, to provide distinctly local solutions.
 
+---------------------
+
 #### [Checkmarx](https://www.checkmarx.com/)
 
 ![Logo - Checkmarx](../assets/images/Logo-Checkmarx-125.png)
@@ -73,6 +81,8 @@ Aura Information Security is an independent division of Kordia Limited, a leadin
 The way your company develops and depends on software has changed – and never has it exposed you to more risk. When software is everywhere, everything becomes an attack surface. And while software security has never been more business critical, you know if it gets in the way of DevOps, it just won’t work. Security must be inseparable from development.
 
 Checkmarx makes software security essential infrastructure: unified with DevOps, and seamlessly embedded into your entire CI/CD pipeline, from uncompiled code to runtime testing. Our holistic platform sets the new standard for instilling security into modern development. 
+
+---------------------
 
 #### [Internet NZ](https://internetnz.nz/)
 
@@ -89,6 +99,8 @@ Checkmarx makes software security essential infrastructure: unified with DevOps,
 * We all have a part to play.
 * We walk the talk.
 
+---------------------
+
 #### [Quantum Security](https://www.quantumsecurity.co.nz/)
 
 ![Logo-Quantum Security](../assets/images/Logo-Quantum_Security-125.png)
@@ -99,6 +111,8 @@ Quantum’s professional staff include OSCP, SABSA, CISA, CISSP and PCI-QSA cert
 
 At Quantum we offer a wide array of services, from technical penetration testing to governance risk and compliance assessments. We are a technical team of passionate InfoSec consultants, gathered from all round the world.
 
+---------------------
+
 #### [Secure Code Warrior](https://securecodewarrior.com/)
 
 ![Logo-Secure Code Warrior](../assets/images/Logo-Secure_Code_Warrior.png)
@@ -108,6 +122,8 @@ Secure Code Warrior was co-founded by Pieter Danhieux and Matias Madou Ph.D., tw
 Both recognised that improving secure coding skills and outcomes would add a powerful layer of cyber protection for companies and would help them make better code, faster. Developers didn’t need to become security experts per se, but they could be empowered positively to be the first line of defence for their organisation.
 
 The team pioneered an innovative approach to improving secure coding skills and outcomes that is simple, scalable and positive; and works for both Development and Application or Information Security groups. The team is driven by the knowledge that measurable improvements in security compliance, consistency and predictability will be matched by a better quality and speed of code writing. And that creates an environment in which everyone can enjoy spending more time building, and less time fixing!
+
+---------------------
 
 #### [SEQA Information Security](https://www.seqa.co.nz/)
 
@@ -123,6 +139,8 @@ SEQA ensures the security needs across a range of industries including; governme
 
 Business competitiveness hinges on the velocity and quality of software delivery. This velocity is challenging the way secure software is being delivered through new methodologies that allow continual integration and deployment. With these new approaches, security testing also needs to work closely with Development, Operations and Quality Assurance teams to ensure security is built-in by default.
 
+---------------------
+
 #### [Snyk](https://snyk.io/)
 
 ![Logo-Snyk](../assets/images/Logo-Snyk-Cropped.png)
@@ -131,11 +149,15 @@ Business competitiveness hinges on the velocity and quality of software delivery
 
 Snyk’s unique combination of developer-first tooling and best in class security depth enables businesses to easily build security into their continuous development process.
 
+---------------------
+
 #### [ZX Security](https://zxsecurity.co.nz/)
 
 ![Logo-ZX Security](../assets/images/Logo-ZX_Security-150.png)
 
 ZX Security is a penetration testing company with head offices located in Wellington. Our team conduct a variety of assessments from web application and mobile reviews through to targeted phishing campaigns and red team engagements.
+
+---------------------
 
 ### Silver Sponsors
 
@@ -147,6 +169,8 @@ ZX Security is a penetration testing company with head offices located in Wellin
 
 Whether it’s apps that help connect businesses to their customers or apps that help employees do their jobs—we make sure apps are always available, and secure, anywhere. The world’s largest enterprises, service providers, financial and educational institutions, government entities, and consumer brands rely on F5 to stay ahead of security, cloud, and mobility trends.
 
+---------------------
+
 #### [Flux Federation](https://fluxfederation.com/)
 
 ![Logo-Flux Federation](../assets/images/Logo-Flux_Federation-125.png)
@@ -154,3 +178,6 @@ Whether it’s apps that help connect businesses to their customers or apps that
 **Flux Federation is a global technology company known for creating software products and experiences for innovative energy retailers throughout the world, including Powershop and a number of other leading energy retail brands.**
 
 Our platform was purpose built by people who have experience running energy companies, so we know it works. Flux is a subsidiary of Meridian Energy, New Zealand's largest energy generator and its fourth-largest retailer. We're a team of around 150 software developers, test analysts, designers, customer experience, and product people.
+
+---------------------
+

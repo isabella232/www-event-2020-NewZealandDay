@@ -1,6 +1,6 @@
 ---
 layout: full-width
-title: Security-uno
+title: OWASP NZ Day Training
 displaytext: Security Uno
 tags: nzday2020
 ---

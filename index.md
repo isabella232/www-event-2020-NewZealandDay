@@ -1,12 +1,9 @@
 ---
-
 layout: full-width
 title: OWASP NZ Day 2020
 tags: nzday2020
 currency: nzd
-
 region: Oceania
-
 ---
 
 ![Conference Web Banner](assets/images/Web_Banner-OWASP_NZ_Day_2020.jpg)

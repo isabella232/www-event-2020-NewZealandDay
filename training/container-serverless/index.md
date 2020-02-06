@@ -1,6 +1,6 @@
 ---
 layout: full-width
-title: Container-serverless
+title: OWASP NZ Day Training
 displaytext: 
 tags: nzday2020
 ---

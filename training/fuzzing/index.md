@@ -1,6 +1,6 @@
 ---
 layout: full-width
-title: Fuzzing
+title: OWASP NZ Day Training
 displaytext: Introduction to Fuzzing
 tags: nzday2020
 ---

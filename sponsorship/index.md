@@ -1,7 +1,6 @@
 ---
 layout: full-width
-title: Sponsorships
-displaytext: Call for Sponsorships
+title: Call for Sponsorships
 tags: nzday2020
 ---
 

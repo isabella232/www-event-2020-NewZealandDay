@@ -1,6 +1,6 @@
 ---
 layout: full-width
-title: Devsecops
+title: OWASP NZ Day Training
 displaytext: DevSecOps - Automating Security in DevOps
 tags: nzday2020
 ---

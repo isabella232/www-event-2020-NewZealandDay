@@ -1,6 +1,6 @@
 ---
 layout: full-width
-title: Node-js
+title: OWASP NZ Day Training
 displaytext: Pwning and Fixing Node.js Apps
 tags: nzday2020
 ---
