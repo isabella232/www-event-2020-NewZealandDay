@@ -13,7 +13,7 @@ tags: nzday2020
 [Back to Conference Home Page](/www-event-2020-NewZealandDay)
 {: style="text-align: right; font-size: small;" }
 
-# Attacking and Defending Containerised Applications and Serverless Tech
+# CANCELLED Class - Attacking and Defending Containerised Applications and Serverless Tech
 
 ## Two-Day Interactive Training - OWASP New Zealand Day 2020
 
@@ -33,15 +33,11 @@ This training has been created with the objective of understanding both offensiv
 
 This course is aimed at Developers, DevOps Engineers, Penetration Testers, Security Practitioners, and other who use container or serverless technology as part of their product deployments, and want to gain a good understanding on how to secure their services and deployments. 
 
-## Course Details 
+## Course Details - As Planned 
 
-**Dates:** Wednesday and Thursday, 19-20 February 2020
-
-**Time:** 8:45 a.m. to 5:30 p.m. each day
-
-**Course Fee:** NZ $1,250.00 (plus EventBrite fees)
-
-**Registration Site:** https://owaspnz2020-training.eventbrite.com
+**Dates:** Wednesday and Thursday, 19-20 February 2020   
+**Time:** 8:45 a.m. to 5:30 p.m. each day   
+**Course Fee:** NZ $1,250.00 (plus EventBrite fees)   
 
 **Prerequisite Skills:**
 

@@ -17,7 +17,7 @@ tags: nzday2020
 
 #### [Insomnia Security Specialists](https://www.insomniasec.com)
 
-![Logo - Insomnia Security Specialists](../assets/images/Logo-Insomnia_Security_Specialists-125.png)
+![Logo - Insomnia Security Specialists](../assets/images/Logo-Insomnia_Security_Specialists-125.png){:width="250px" target="_blank" rel="sponsored"}
 
 Founded in 2007, Insomnia Security is a team of more than thirty IT professionals, including a consultancy team with well over 75 years combined experience in commercial, offensive security.
 
@@ -29,7 +29,7 @@ Specialising in offensive security testing services, our teams regularly attend 
 
 #### [Lateral Security](https://www.lateralsecurity.com/)
 
-![Logo - Lateral Security](../assets/images/Logo-Lateral_Security-125.png)
+![Logo - Lateral Security](../assets/images/Logo-Lateral_Security-125.png){:width="250px" target="_blank" rel="sponsored"}
 
 Lateral Security is New Zealand’s leading independent IT security company providing tailored information security testing and advisory services.
 
@@ -47,7 +47,7 @@ Our company vision: "To improve the IT security and safety of our customers and 
 
 #### [Auth0](https://auth0.com/)
 
-![Logo - Auth0](../assets/images/Logo-Auth0-125.png)
+![Logo - Auth0](../assets/images/Logo-Auth0-125.png){:width="250px" target="_blank" rel="sponsored"}
 
 **Built for Developers, Trusted by Global Enterprises.**
 
@@ -63,7 +63,7 @@ We help the very best businesses and organizations solve identity.
 
 #### [Aura Information Security](https://www.aurainfosec.com/)
 
-![Logo - Aura Information Security](../assets/images/Logo-Aura_Information_Security-125.jpg)
+![Logo - Aura Information Security](../assets/images/Logo-Aura_Information_Security-125.jpg){:width="250px" target="_blank" rel="sponsored"}
 
 Aura Information Security consists of a team of highly-skilled and renowned information security professionals spanning Australia and New Zealand. We are leaders in cyber security. Our team of experts utilise specialist skills and knowledge to help our customers identify cyber threats and prevent potentially catastrophic breaches.
 
@@ -79,7 +79,7 @@ Aura Information Security is an independent division of Kordia Limited, a leadin
 
 #### [Checkmarx](https://www.checkmarx.com/)
 
-![Logo - Checkmarx](../assets/images/Logo-Checkmarx-125.png)
+![Logo - Checkmarx](../assets/images/Logo-Checkmarx-125.png){:width="250px" target="_blank" rel="sponsored"}
 
 **When Software is Everywhere, Security is Everything**
 
@@ -91,7 +91,7 @@ Checkmarx makes software security essential infrastructure: unified with DevOps,
 
 #### [Internet NZ](https://internetnz.nz/)
 
-![Logo-Internet NZ](../assets/images/Logo-Internet_NZ-Cropped.png)
+![Logo-Internet NZ](../assets/images/Logo-Internet_NZ-Cropped.png){:width="250px" target="_blank" rel="sponsored"}
 
 **Our vision** - An Internet that is open, secure, and for all New Zealanders.
 
@@ -108,7 +108,7 @@ Checkmarx makes software security essential infrastructure: unified with DevOps,
 
 #### [Quantum Security](https://www.quantumsecurity.co.nz/)
 
-![Logo-Quantum Security](../assets/images/Logo-Quantum_Security-125.png)
+![Logo-Quantum Security](../assets/images/Logo-Quantum_Security-125.png){:width="250px" target="_blank" rel="sponsored"}
 
 Founded in 2014 Quantum Security Services aims to provide excellence throughout our engagement process. We utilise only the best personnel available in the market to ensure our clients receive the best. We engage our clients throughout and provide comprehensive and readable reports.
 
@@ -120,7 +120,7 @@ At Quantum we offer a wide array of services, from technical penetration testing
 
 #### [Secure Code Warrior](https://securecodewarrior.com/)
 
-![Logo-Secure Code Warrior](../assets/images/Logo-Secure_Code_Warrior.png)
+![Logo-Secure Code Warrior](../assets/images/Logo-Secure_Code_Warrior.png){:width="250px" target="_blank" rel="sponsored"}
 
 Secure Code Warrior was co-founded by Pieter Danhieux and Matias Madou Ph.D., two globally recognised security experts. Through their combined security experience as developers, researchers, trainers and consultants, Pieter and Matias had experienced the negative impact of insecure code and were frustrated by the industry's focus on simply finding vulnerabilities, rather than fixing or preventing them in the first place.
 
@@ -132,7 +132,7 @@ The team pioneered an innovative approach to improving secure coding skills and 
 
 #### [SEQA Information Security](https://www.seqa.co.nz/)
 
-![Logo-SEQA](../assets/images/Logo-SEQA-150.png)
+![Logo-SEQA](../assets/images/Logo-SEQA-150.png){:width="250px" target="_blank" rel="sponsored"}
 
 At SEQA Information Security our mission is to make a difference in the resilience of New Zealand businesses from cyberattacks. We do this by providing world-class information security services and solutions that are relevant to modern businesses.
 
@@ -148,7 +148,7 @@ Business competitiveness hinges on the velocity and quality of software delivery
 
 #### [Snyk](https://snyk.io/)
 
-![Logo-Snyk](../assets/images/Logo-Snyk-Cropped.png)
+![Logo-Snyk](../assets/images/Logo-Snyk-Cropped.png){:width="250px" target="_blank" rel="sponsored"}
 
 **Snyk empowers software-driven businesses to develop fast and stay secure**
 
@@ -158,7 +158,7 @@ Snyk’s unique combination of developer-first tooling and best in class securit
 
 #### [ZX Security](https://zxsecurity.co.nz/)
 
-![Logo-ZX Security](../assets/images/Logo-ZX_Security-150.png)
+![Logo-ZX Security](../assets/images/Logo-ZX_Security-150.png){:width="250px" target="_blank" rel="sponsored"}
 
 ZX Security is a penetration testing company with head offices located in Wellington. Our team conduct a variety of assessments from web application and mobile reviews through to targeted phishing campaigns and red team engagements.
 
@@ -168,7 +168,7 @@ ZX Security is a penetration testing company with head offices located in Wellin
 
 #### [F5 Networks](https://www.f5.com/)
 
-![Logo-F5 Networks](../assets/images/Logo-F5-125.png)
+![Logo-F5 Networks](../assets/images/Logo-F5-125.png){:width="250px" target="_blank" rel="sponsored"}
 
 **At F5, our mission is based on the fact that businesses depend on apps.**
 
@@ -178,7 +178,7 @@ Whether it’s apps that help connect businesses to their customers or apps that
 
 #### [Flux Federation](https://fluxfederation.com/)
 
-![Logo-Flux Federation](../assets/images/Logo-Flux_Federation-125.png)
+![Logo-Flux Federation](../assets/images/Logo-Flux_Federation-125.png){:width="250px" target="_blank" rel="sponsored"}
 
 **Flux Federation is a global technology company known for creating software products and experiences for innovative energy retailers throughout the world, including Powershop and a number of other leading energy retail brands.**
 
