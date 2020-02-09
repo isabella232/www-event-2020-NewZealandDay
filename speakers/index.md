@@ -371,8 +371,6 @@ Petra grew up wanting to be Sailor Mercury – the nerdy blue-haired one who use
 
 
 
--------------
-
 
 
 
