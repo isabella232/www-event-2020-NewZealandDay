@@ -120,7 +120,7 @@ Petra grew up wanting to be Sailor Mercury – the nerdy blue-haired one who use
 
 -------------
 
-### Session Three (16:00 - 18:00
+### Session Three (16:00 - 18:00)
 
 ### Same-origin policy: The Core of Web Security
 *Kirk Jackson - Red Shield*
@@ -169,7 +169,7 @@ Petra grew up wanting to be Sailor Mercury – the nerdy blue-haired one who use
 ### Session Two (13:30 - 15:30)
 
 
-### Session Three (16:00 - 18:00
+### Session Three (16:00 - 18:00)
 
 
 ## Track Three - OWASP Projects and Tools
@@ -180,7 +180,7 @@ Petra grew up wanting to be Sailor Mercury – the nerdy blue-haired one who use
 ### Session Two (13:30 - 15:30)
 
 
-### Session Three (16:00 - 18:00
+### Session Three (16:00 - 18:00)
 
 
 
