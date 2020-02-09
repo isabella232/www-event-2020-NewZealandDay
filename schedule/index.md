@@ -231,7 +231,7 @@ tags: nzday2020
   <tr>
     <td style="vertical-align: top; text-align: right;">17:30</td>
     <td style="background-color: #EEE; text-align: center">
-      <strong><a href="../speakers/#pci-dss-wtf"">PCI-DSS-WTF?</a></strong>
+      <strong><a href="../speakers/#pci-dss-wtf">PCI-DSS-WTF?</a></strong>
       <br />
       <em>Peter Jakowetz - Ministry of Justice</em>
     </td>
