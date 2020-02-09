@@ -34,7 +34,7 @@ tags: nzday2020
   <tr>
     <td valign="top" align="right">09:20</td>
     <td colspan="5" style="background-color: #8595C2; text-align: center;">
-      <strong>Opening Keynote: The Abridged History of Application Security</strong>
+      <strong>[Opening Keynote: The Abridged History of Application Security](../speakers/#the-abridged-history-of-application-security)</strong>
       <br />
       <em>Jim Manico - Founder, Manicode Security; Co-Leader, OWASP Application Security Verification Standard (ASVS) and Proactive Controls Projects</em>
     </td>
@@ -62,39 +62,39 @@ tags: nzday2020
   <tr>
     <td style="vertical-align: top; text-align: right;">10:10</td>
     <td style="background-color: #EEE; text-align: center;">
-      <strong>High-Speed Security</strong>
+      <strong>[High-Speed Security](../speakers/#high-speed-security)</strong>
       <br />
       <em>Nick von Dadelszen - Lateral Security</em>
     </td>
     <td style="vertical-align: top; text-align: right;">10:10</td>
     <td style="background-color: #EEE; text-align: center">
-      <strong>A Pentester's Guide to Automating Security</strong>
+      <strong>[A Pentester's Guide to Automating Security](../speakers/#a-pentesters-guide-to-automating-security)</strong>
       <br />
       <em>Benjamin Kearns (pipeline) - Lateral Security</em>
     </td>
     <td style="vertical-align: top; text-align: right;">10:10</td>
     <td style="background-color: #EEE; text-align: center">
-      <strong>OWASP Top 10 Overview</strong>
+      <strong>[OWASP Top 10 Overview](../speakers/#owasp-top-10-overview)</strong>
       <br />
-      <em>Kirk Jackson - Co-Leader, OWASP New Zealand Chapter</em>
+      <em>Kirk Jackson - RedShield & Co-Leader, OWASP New Zealand Chapter</em>
     </td>
   </tr>
   <tr>
     <td style="vertical-align: top; text-align: right;" rowspan="2">10:45</td>
     <td style="background-color: #B9C2DC; text-align: center;" rowspan="2">
-      <strong>The Perimeter Has Been Shattered: Attacking and Defending Mobility and IoT on the Enterprise Network</strong>
+      <strong>[The Perimeter Has Been Shattered: Attacking and Defending Mobility and IoT on the Enterprise Network](../speakers/#the-perimeter-has-been-shattered-attacking-and-defending-mobility-and-iot-on-the-enterprise-network)</strong>
       <br />
       <em>Georgia Weidman - Bulb Security</em>
     </td>
     <td style="vertical-align: top; text-align: right;">10:45</td>
     <td style="background-color: #B9C2DC; text-align: center;">
-      <strong>Improving Identity Management with W3C Verifiable Credentials</strong>
+      <strong>[Improving Identity Management with W3C Verifiable Credentials](../speakers/#improving-identity-management-with-w3c-verifiable-credentials)</strong>
       <br />
       <em>David Chadwick - University of Kent</em>
     </td>
     <td style="vertical-align: top; text-align: right;" rowspan="2">10:45</td>
     <td style="background-color: #B9C2DC; text-align: center" rowspan="2">
-      <strong>Building Secure Mobile Apps: You don’t have to learn it the hard way!</strong>
+      <strong>[Building Secure Mobile Apps: You don’t have to learn it the hard way!](../speakers/#building-secure-mobile-apps-you-dont-have-to-learn-it-the-hard-way)</strong>
       <br />
       <em>Sven Schleier - Co-Leader, OWASP MSTG and MASVS Projects</em>
     </td>
@@ -102,7 +102,7 @@ tags: nzday2020
   <tr>
     <td style="width: 6%; vertical-align: top; text-align: right;">11:20</td>
     <td style="background-color: #EEE; text-align: center">
-      <strong>Scanning Your Container Images using Anchore</strong>
+      <strong>[Scanning Your Container Images using Anchore](../speakers/#scanning-your-container-images-using-anchore)</strong>
       <br />
       <em>Vince Sesto - Foodstuffs North Island</em>
     </td>
@@ -110,13 +110,13 @@ tags: nzday2020
   <tr>
     <td style="vertical-align: top; text-align: right;">11:40</td>
     <td style="background-color: #EEE; text-align: center">
-      <strong>What's the Worst That Could Happen?</strong>
+      <strong>[What's the Worst That Could Happen?](../speakers/#whats-the-worst-that-could-happen)</strong>
       <br />
       <em>Petra Smith - Aura Information Security</em>
     </td>
     <td style="vertical-align: top; text-align: right;">11:40</td>
     <td style="background-color: #B9C2DC; text-align: center">
-      <strong>Teaching an Old Dog New Tricks</strong>
+      <strong>[Teaching an Old Dog New Tricks](../speakers/#teaching-an-old-dog-new-tricks)</strong>
       <br />
       <em>Brett Moore - Insomnia Security Specialists</em>
     </td>
@@ -130,18 +130,18 @@ tags: nzday2020
   <tr>
     <td style="vertical-align: top; text-align: right;">13:30</td>
     <td style="background-color: #EEE; text-align: center">
-      <strong>Māori Cultural and Ethical Considerations in Information Security</strong>
+      <strong>[Māori Cultural and Ethical Considerations in Information Security](../speakers/#māori-cultural-and-ethical-considerations-in-information-security)</strong>
       <br />
       <em>Karaitiana Taiuru</em></td>
     <td rowspan="2" style="vertical-align: top; text-align: right;">13:30</td>
     <td rowspan="2" style="background-color: #EEE; text-align: center">
-      <strong>Wyh Ranmdnoses Mattres</strong>
+      <strong>[Wyh Ranmdnoses Mattres](../speakers/#wyh-ranmdnoses-mattres)</strong>
       <br />
       <em>Frans Lategan - Aura Information Security</em>
     </td>
     <td rowspan="2" style="vertical-align: top; text-align: right;">13:30</td>
     <td rowspan="2" style="background-color: #EEE; text-align: center">
-      <strong>OWASP Project Overviews: Top Ten, ASVS, Proactive Controls, Java Encoder, HTML Sanitizer</strong>
+      <strong>[OWASP Project Overviews: Top Ten, ASVS, Proactive Controls, Java Encoder, HTML Sanitizer](../speakers/#owasp-project-overviews-top-ten-asvs-proactive-controls-java-encoder-html-sanitizer)</strong>
       <br />
       <em>Jim Manico</em>
     </td>
@@ -149,7 +149,7 @@ tags: nzday2020
   <tr>
     <td style="vertical-align: top; text-align: right;">14:05</td>
     <td style="background-color: #B9C2DC; text-align: center">
-      <strong>Mūrere me te haumarutanga</strong>
+      <strong>[Mūrere me te haumarutanga](../speakers/#mūrere-me-te-haumarutanga)</strong>
       <br />
       <em>Chris Cormack - Catalyst IT</em>
     </td>
@@ -157,13 +157,13 @@ tags: nzday2020
   <tr>
     <td style="vertical-align: top; text-align: right;">14:25</td>
     <td style="background-color: #EEE; text-align: center">
-      <strong>Small, but fierce (but still small)</strong>  
+      <strong>[Small, but fierce (but still small)](../speakers/#small-but-fierce-but-still-small)</strong>  
       <br />  
       <em>Erica Anderson (@Sputina) - SafeStack</em>
     </td>
     <td style="vertical-align: top; text-align: right;">14:25</td>
     <td style="background-color: #B9C2DC; text-align: center">
-      <strong>Web App Attacks of the Modern World</strong>
+      <strong>[Web App Attacks of the Modern World](../speakers/#web-app-attacks-of-the-modern-world)</strong>
       <br />
       <em>Karan Sharma</em>
     </td>
@@ -173,13 +173,13 @@ tags: nzday2020
   <tr>
     <td style="vertical-align: top; text-align: right;">15:00</td>
     <td style="background-color: #B9C2DC; text-align: center">
-      <strong>Keeping Up with the Joneses: Security from a Developer's Perspective</strong>
+      <strong>[Keeping Up with the Joneses: Security from a Developer's Perspective](../speakers/#keeping-up-with-the-joneses-security-from-a-developers-perspective)</strong>
       <br />
       <em>Toni James - Lateral Security</em>
     </td>
     <td style="vertical-align: top; text-align: right;">15:00</td>
     <td style="background-color: #EEE; text-align: center">
-      <strong>Use OSINT to Keep Up with AWS</strong>
+      <strong>[Use OSINT to Keep Up with AWS](../speakers/#use-osint-to-keep-up-with-aws)</strong>
       <br />
       <em>Oliver (Olly) Ewert</em>
     </td>
@@ -191,19 +191,19 @@ tags: nzday2020
   <tr>
     <td rowspan="2" style="vertical-align: top; text-align: right;">16:00</td>
     <td rowspan="2" style="background-color: #EEE; text-align: center">
-      <strong>Same-origin policy: The Core of Web Security</strong>
+      <strong>[Same-origin policy: The Core of Web Security](../speakers/#same-origin-policy-the-core-of-web-security)</strong>
       <br />
-      <em>Kirk Jackson - Red Shield</em>
+      <em>Kirk Jackson - RedShield & Co-Leader, OWASP New Zealand Chapter</em>
     </td>
     <td style="vertical-align: top; text-align: right;">16:00</td>
     <td style="background-color: #EEE; text-align: center">
-      <strong>Security in our code reviews? Check!</strong>
+      <strong>[Security in our code reviews? Check!](../speakers/#security-in-our-code-reviews-check)</strong>
       <br />
       <em>Daniel Zollinger - SafeStack</em>
     </td>
     <td rowspan="2" style="vertical-align: top; text-align: right;">16:00</td>
     <td rowspan="2" style="background-color: #EEE; text-align: center;">
-      <strong>OWASP SAMM2: Your Dynamic Software Security Journey</strong>
+      <strong>[OWASP SAMM2: Your Dynamic Software Security Journey](../speakers/#owasp-samm2-your-dynamic-software-security-journey)</strong>
       <br />
       <em>John Ellingsworth - Co-Author, OWASP SAMM Project</em>
     </td>
@@ -215,13 +215,13 @@ tags: nzday2020
   <tr>
     <td style="vertical-align: top; text-align: right;">16:55</td>
     <td style="background-color: #B9C2DC; text-align: center">
-      <strong>Fighting an Uneven Battle: Simplicity versus Complexity in Web App Security</strong>
+      <strong>[Fighting an Uneven Battle: Simplicity versus Complexity in Web App Security](../speakers/#fighting-an-uneven-battle-simplicity-versus-complexity-in-web-app-security)</strong>
       <br />
       <em>Sergey Ozernikov - ATTACK</em>
     </td>
     <td style="vertical-align: top; text-align: right;">16:55</td>
     <td style="background-color: #EEE; text-align: center">
-      <strong>A Recipe for Password Storage: Add Salt to Taste</strong>
+      <strong>[A Recipe for Password Storage: Add Salt to Taste](../speakers/#a-recipe-for-password-storage-add-salt-to-taste)</strong>
       <br />
       <em>Nick Malcolm - Aura Information Security</em>
     </td>
@@ -231,13 +231,13 @@ tags: nzday2020
   <tr>
     <td style="vertical-align: top; text-align: right;">17:30</td>
     <td style="background-color: #EEE; text-align: center">
-      <strong>PCI-DSS-WTF?</strong>
+      <strong>[PCI-DSS-WTF?](../speakers/#pci-dss-wtf")</strong>
       <br />
       <em>Peter Jakowetz - Ministry of Justice</em>
     </td>
     <td style="vertical-align: top; text-align: right;">17:30</td>
     <td style="background-color: #B9C2DC; text-align: center">
-      <strong>Self-Service SSH Certificates</strong>
+      <strong>[Self-Service SSH Certificates](../speakers/#self-service-ssh-certificates)</strong>
       <br />
       <em>Jeremy Stott</em>
     </td>
