@@ -14,6 +14,8 @@ tags: nzday2020
 
 ## Friday, 21 February 2020
 
+**Presentation abstracts and speaker biographies can be found on [this page](../speakers){:target="_blank"}.
+
 <table width="100%">
   <tr>
     <td style="vertical-align: top; text-align: right;">08:00</td>
