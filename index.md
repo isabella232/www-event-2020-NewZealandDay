@@ -22,9 +22,7 @@ region: Oceania
 
 * [Pre-Conference Training - 19-21 February](training/)
 * [Conference Schedule - 21 February](schedule/)
-
-  * [Presentation Abstracts and Speaker Bios](speakers/)
-  
+  * [Presentation Abstracts and Speaker Bios](speakers/)   
 * [About Our Sponsors](sponsors/)
 * [Call for Volunteers](volunteers/)
 * [Call for Sponsorships](sponsorship/)
