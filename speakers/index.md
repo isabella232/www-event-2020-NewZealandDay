@@ -136,7 +136,7 @@ Toni is a snowboarder turned software engineer turned security consultant. Sheâ€
 ### Session Three (16:00 - 18:00)
 
 ### Same-origin policy: The Core of Web Security
-*Kirk Jackson - Red Shield*
+*Kirk Jackson - RedShield & Co-Leader, OWASP New Zealand Chapter*
 
 #### Abstract
 
@@ -388,7 +388,7 @@ Jeremy is a software engineer, with a focus on security. Most recently working a
 ### Session One (10:05 - 12:30)
 
 ### OWASP Top 10 Overview
-*Kirk Jackson - Co-Leader, OWASP New Zealand Chapter*
+*Kirk Jackson - RedShield & Co-Leader, OWASP New Zealand Chapter*
 
 #### Abstract
 
