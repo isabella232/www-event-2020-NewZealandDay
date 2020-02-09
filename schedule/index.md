@@ -215,7 +215,7 @@ tags: nzday2020
     <td style="background-color: #B9C2DC; text-align: center">
       <strong>Fighting an Uneven Battle: Simplicity versus Complexity in Web App Security</strong>
       <br />
-      <em>Sergey Ozernikov</em>
+      <em>Sergey Ozernikov - ATTACK</em>
     </td>
     <td style="vertical-align: top; text-align: right;">16:55</td>
     <td style="background-color: #EEE; text-align: center">
