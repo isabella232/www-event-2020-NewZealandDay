@@ -10,9 +10,7 @@ tags: nzday2020
 [Back to Conference Home Page](/www-event-2020-NewZealandDay)
 {: style="text-align: right; font-size: small;" }
 
-# Presentation Abstracts and Speaker Biographies
-
-## OWASP New Zealand Day 2020
+# Presentation Abstracts and Speaker Biographies - OWASP New Zealand Day 2020
 
 ## Track One - Introductory and Management Topics
 
