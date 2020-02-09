@@ -12,6 +12,17 @@ tags: nzday2020
 
 # Presentation Abstracts and Speaker Biographies - OWASP New Zealand Day 2020
 
+## Opening Keynote
+
+### The Abridged History of Application Security
+*Jim Manico - Manicode Security*
+
+#### Abstract
+
+Application Security began in the early '60s, where plaintext password storage, no password policy, poor access control, and other massive security problems were the norm. This talk with review the history of application security to help illustrate not just how much application security has gotten better, but also how the rate of positive change has been getting better as well. This fun ride through the history of application security will help inspire those who work in the very stressful security industry. Security professionals are often looking closely at failure and insecurity as part of their work, which can be exhausting on many levels. But when we step back and look at our sector historically, we can all see just how much things genuinely are getting better.
+
+-------------
+
 ## Track One - Introductory and Management Topics
 
 ### Session One (10:05 - 12:30)
@@ -163,22 +174,204 @@ Petra grew up wanting to be Sailor Mercury – the nerdy blue-haired one who use
 
 ### Session One (10:05 - 12:30)
 
+### A Pentester's Guide to Automating Security
+*Benjamin Kearns (pipeline) - Lateral Security*
+
+#### Abstract
+
+
+
+#### Speaker Biography
+
+
+
+-------------
+
+### Improving Identity Management with W3C Verifiable Credentials
+*David Chadwick - University of Kent*
+
+#### Abstract
+
+
+
+#### Speaker Biography
+
+
+
+-------------
+
+### Scanning Your Container Images using Anchore
+*Vince Sesto - Foodstuffs North Island*
+
+#### Abstract
+
+
+
+#### Speaker Biography
+
+
+
+-------------
+
+### Teaching an Old Dog New Tricks
+*Brett Moore - Insomnia Security Specialists*
+
+#### Abstract
+
+
+
+#### Speaker Biography
+
+
+
+-------------
+
 
 ### Session Two (13:30 - 15:30)
 
+### Wyh Ranmdnoses Mattres
+*Frans Lategan - Aura Information Security*
+
+#### Abstract
+
+
+
+#### Speaker Biography
+
+
+
+-------------
+
+### Web App Attacks of the Modern World
+*Karan Sharma*
+
+#### Abstract
+
+
+
+#### Speaker Biography
+
+
+
+-------------
+
+### Use OSINT to Keep Up with AWS
+*Oliver (Olly) Ewert*
+
+#### Abstract
+
+
+
+#### Speaker Biography
+
+
+
+-------------
+
 
 ### Session Three (16:00 - 18:00)
+
+### Security in our code reviews? Check!
+*Daniel Zollinger - SafeStack*
+
+#### Abstract
+
+
+
+#### Speaker Biography
+
+
+
+-------------
+
+### A Recipe for Password Storage: Add Salt to Taste
+*Nick Malcolm - Aura Information Security*
+
+#### Abstract
+
+
+
+#### Speaker Biography
+
+
+
+-------------
+
+### Self-Service SSH Certificates
+*Jeremy Stott*
+
+#### Abstract
+
+
+
+#### Speaker Biography
+
+
+
+-------------
 
 
 ## Track Three - OWASP Projects and Tools
 
 ### Session One (10:05 - 12:30)
 
+### OWASP Top 10 Overview
+*Kirk Jackson - Co-Leader, OWASP New Zealand Chapter*
+
+#### Abstract
+
+
+
+#### Speaker Biography
+
+
+
+-------------
+
+### Building Secure Mobile Apps: You don’t have to learn it the hard way!
+*Sven Schleier - Co-Leader, OWASP MSTG and MASVS Projects*
+
+#### Abstract
+
+
+
+#### Speaker Biography
+
+
+
+-------------
+
 
 ### Session Two (13:30 - 15:30)
 
+### OWASP Project Overviews: Top Ten, ASVS, Proactive Controls, Java Encoder, HTML Sanitizer
+*Jim Manico - Co-Leader, OWASP Application Security Verification Standard (ASVS) and Proactive Controls Projects*
+
+#### Abstract
+
+
+
+#### Speaker Biography
+
+
+
+-------------
+
 
 ### Session Three (16:00 - 18:00)
+
+### OWASP SAMM2: Your Dynamic Software Security Journey
+*John Ellingsworth - Co-Author, OWASP SAMM Project*
+
+#### Abstract
+
+
+
+#### Speaker Biography
+
+
+
+-------------
 
 
 
