@@ -158,7 +158,7 @@ Snyk’s unique combination of developer-first tooling and best in class securit
 
 #### [ZX Security](https://zxsecurity.co.nz/)
 
-![Logo-ZX Security](../assets/images/Logo-ZX_Security-150.png){:width="250px" target="_blank" rel="sponsored"}
+![Logo-ZX Security](../assets/images/Logo-ZX_Security-150.png){:width="175px" target="_blank" rel="sponsored"}
 
 ZX Security is a penetration testing company with head offices located in Wellington. Our team conduct a variety of assessments from web application and mobile reviews through to targeted phishing campaigns and red team engagements.
 
@@ -168,7 +168,7 @@ ZX Security is a penetration testing company with head offices located in Wellin
 
 #### [F5 Networks](https://www.f5.com/)
 
-![Logo-F5 Networks](../assets/images/Logo-F5-125.png){:width="250px" target="_blank" rel="sponsored"}
+![Logo-F5 Networks](../assets/images/Logo-F5-125.png){:width="150px" target="_blank" rel="sponsored"}
 
 **At F5, our mission is based on the fact that businesses depend on apps.**
 
