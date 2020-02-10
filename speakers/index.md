@@ -82,11 +82,25 @@ Petra grew up wanting to be Sailor Mercury – the nerdy blue-haired one who use
 
 #### Abstract
 
-At an alarming rate as information security evolves: Māori Culture, Treaty of Waitangi and traditional values are being ignored to the detriment of Māori as a people and individuals. This presentation will touch on many aspects from naming conventions to facial recognition and provide solutions.
+If you are in government, this presentation will satisfy Treaty of Waitangi considerations; if you want to be respectful of Māori culture this presentation is for you; If you are just curious, this is a good presentation to listen to; if you are a commercial company looking to secure Iwi and Māori clientele, this presentation will give you lots of great ideas.
+
+It is important to state here that just because someone is Māori, it does not mean they were brought up Māori and understand Māori culture and language etc. Some Māori who were brought up Māori chose to simply ignore it and assimilate into modern society.
+
+The hardest part about speaking about Māori cultural ethics and digital security is not to offer too much information on vulnerabilities that can be used against Māori by unethical security practitioners and in reverse by unethical Māori security people back in the law-abiding security community.
+
+It is my intention to briefly touch on multiple topics to give you an idea of some of the ethical issues. More so, a number of ethical issues I have witnessed and anticipate will be common in the near future.
+
+Biometric security, Artificial Intelligence, Big Data, Algorithms, DNA storage, Databases with names, data storage in the cloud are all new areas that have an impact on Māori culture and beliefs.
 
 #### Speaker Biography
 
+Ngāi Tahu, Ngāti Kahungunu, Ngāti Rārua.
 
+Karaitiana Taiuru was immersed with traditional Māori knowledge from birth and spent his whole career in the digital sector. He uses traditional knowledge to express and highlight ethical considerations in technology and cyber safety issues.
+
+Karaitiana is currently in his third year of a PhD researching customary beliefs and ownership of gene research and the impacts technology such as AI will have.
+
+Karaitiana Taiuru JP, GDID, MMIL (Distinction), MInstD	*STEAM Māori
 
 -----------
 
