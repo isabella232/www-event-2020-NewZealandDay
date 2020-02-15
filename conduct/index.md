@@ -18,6 +18,6 @@ We want to make the OWASP NZ Day a welcoming environment for all attendees. To t
 
 Speakers, trainers and sponsors have all been reminded of these policies, and are expected to abide by them like all attendees.
 
-If you have any concerns during the day, please seek out John, Judy, or James. We will make ourselves visible at the start of the day, so you know what we look like. 
+**You can report any issues through our [Code of Conduct Reporting Form](https://docs.google.com/forms/d/e/1FAIpQLScZ0V5vxptNEDh6Dt55q7Jb-RySsVaBfo82_w12b2GJnSqacw/viewform?usp=sf_link)**. If you are comfortable doing so, you can also seek help by approaching volunteers wearing distinctive blue t-shirts, particularly **John, Judy, and James** who make up our Code of Conduct Team and will be introduced at the start of the day.
 
-Conference committee members will be wearing distinctive blue t-shirts. Please feel free to approach any committee member, or stop by one of the Conference Information desks, if you encounter any issue. 
+**In an emergency please contact the New Zealand Police on 111 or University of Auckland Security on 0800 373 7550.**
