@@ -104,7 +104,7 @@ Please join our low volume [Google Groups mailing list](https://groups.google.co
 
 ## Places to Eat and Drink on the Day
  
-The University published a [handy map](assets/docs/Retail_Map_City_Campus_2018_v2.pdf) (in 2018), to help you find places to eat around campus.
+The University has published a [handy, updated map](assets/docs/Retail Map_University_of_Auckland_2020.pdf), to help you find places to eat around campus.
 
 Some of the options available:
 * The Deli - Located on Level 1 of the Owen G. Glenn Building - This is closest, but will probably have long lines
