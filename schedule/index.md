@@ -71,6 +71,8 @@ tags: nzday2020
       <strong><a href="../speakers/#a-pentesters-guide-to-automating-security">A Pentester's Guide to Automating Security</a></strong>
       <br />
       <em>Benjamin Kearns (pipeline) - Lateral Security</em>
+      <br />
+      View: <a href="../assets/presentations/Kearnes--Pentesters_Guide_to_Automating_Security--20200221.pdf" target="_blank">Slide Deck</a>
     </td>
     <td style="vertical-align: top; text-align: right;">10:10</td>
     <td style="background-color: #EEE; text-align: center">
@@ -192,6 +194,8 @@ tags: nzday2020
       <strong><a href="../speakers/#use-osint-to-keep-up-with-aws">Use OSINT to Keep Up with AWS</a></strong>
       <br />
       <em>Oliver (Olly) Ewert</em>
+      <br />
+      View: <a href="../assets/presentations/Ewert--Use_OSINT_to_Keep_up_with_AWS--20200221.pdf" target="_blank">Slide Deck (with presenter's notes)</a>
     </td>
   </tr>
   <tr>
