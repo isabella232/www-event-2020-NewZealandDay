@@ -98,7 +98,7 @@ tags: nzday2020
       <br />
       <em>Sven Schleier - Co-Leader, OWASP MSTG and MASVS Projects</em>
       <br />
-      View: <a href="../assets/presentations/Schleier--MSTG_MASVS--20200221">Slide Deck</a>
+      View: <a href="../assets/presentations/Schleier--MSTG_MASVS--20200221" target="_blank">Slide Deck</a>
     </td>
   </tr>
   <tr>
@@ -108,7 +108,7 @@ tags: nzday2020
       <br />
       <em>Vince Sesto - Foodstuffs North Island</em>
       <br />
-      View: <a href="../assets/presentations/Sesto--Scanning_Your_Container_Images--20200221.pdf">Slide Deck</a>
+      View: <a href="../assets/presentations/Sesto--Scanning_Your_Container_Images--20200221.pdf" target="_blank">Slide Deck</a>
     </td>
   </tr>
   <tr>
@@ -157,7 +157,7 @@ tags: nzday2020
       <br />
       <em>Chris Cormack - Catalyst IT</em>
       <br />
-      View: <a href="../assets/presentations/Cormack--Murere_me_te_haumarutanga--20200221.pdf">Slide Deck</a>
+      View: <a href="../assets/presentations/Cormack--Murere_me_te_haumarutanga--20200221.pdf" target="_blank">Slide Deck</a>
     </td>
   </tr>
   <tr>
@@ -167,7 +167,7 @@ tags: nzday2020
       <br />  
       <em>Erica Anderson (@Sputina) - SafeStack</em>
       <br />
-      View: <a href="../assets/presentations/Anderson--Small_but_Fierce--20200221.pdf">Slide Deck</a>
+      View: <a href="../assets/presentations/Anderson--Small_but_Fierce--20200221.pdf" target="_blank">Slide Deck</a>
     </td>
     <td style="vertical-align: top; text-align: right;">14:25</td>
     <td style="background-color: #B9C2DC; text-align: center">
@@ -215,7 +215,7 @@ tags: nzday2020
       <br />
       <em>John Ellingsworth - Co-Author, OWASP SAMM Project</em>
       <br />
-      View: <a href="../assets/presentations/Ellingsworth--OWASP_SAMM--20200221.pdf">Slide Deck</a>
+      View: <a href="../assets/presentations/Ellingsworth--OWASP_SAMM--20200221.pdf" target="_blank">Slide Deck</a>
     </td>
   </tr>
   <tr>
@@ -229,7 +229,7 @@ tags: nzday2020
       <br />
       <em>Sergey Ozernikov - ATTACK</em>
       <br />
-      View: <a href="../assets/presentations/Ozernikov--Complexity_vs_Simplicity--20200221.pdf">Slide Deck</a>
+      View: <a href="../assets/presentations/Ozernikov--Complexity_vs_Simplicity--20200221.pdf" target="_blank">Slide Deck</a>
     </td>
     <td style="vertical-align: top; text-align: right;">16:55</td>
     <td style="background-color: #EEE; text-align: center">
