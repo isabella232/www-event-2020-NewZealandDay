@@ -10,12 +10,6 @@ region: Oceania
 
 ## 19 - 21 February 2020 - Auckland
 
-# Conference and Training Registration are now OPEN.  
-
-**Visit our [Conference Registration](https://owaspnz2020.eventbrite.com) and [Training Registration](https://owaspnz2020-training.eventbrite.com) sites, to reserve your places.**
-
-**Training Registration CLOSES on Wednesday, 12 February. Don't miss out!**
-
 -----
 
 ## Important Links
@@ -70,7 +64,7 @@ We are excited to announce that Jim Manico, founder of Manicode Security and a c
 
 ## Training
 
-In addition to the main conference on Friday, we are pleased to be offer training opportunities on Wednesday and Thursday, at the same venue. Course details can be found on the **[Pre-Conference Training](training/)** page, and you can register for training on [EventBrite](https://owaspnz2020-training.eventbrite.com).
+In addition to the main conference on Friday, we are pleased to be offer training opportunities on Wednesday and Thursday, at the same venue. Course details can be found on the **[Pre-Conference Training](training/)** page, and you can register for training on [EventBrite](https://owaspnz2020-training.eventbrite.com) **(CLOSED)**.
 
 **Training Fees:** $1250.00 for two-day sessions; $625.00 for one-day sessions; $325.00 for half-day sessions (plus EventBrite fees)
 
@@ -97,7 +91,7 @@ Please join our low volume [Google Groups mailing list](https://groups.google.co
 * **CFT Submission Deadline:** 30 November 2019 (**CFT Closed**)
 * **CFP Second-Round Deadline:** 15 December 2019 (**CFP Closed**)
 * **Registration Opened:** 15 December 2019
-* **Training Registration Closes:** 12 February 2020
+* **Training Registration Closed:** 12 February 2020
 * **Pre-Conference Training Dates:** 19-20 February 2020
 * **Main Conference Date:** 21 February 2020
 * **Conference Registration Deadline:** 21 February 2020 (On-site registration permitted, if space is available)

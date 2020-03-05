@@ -97,6 +97,8 @@ tags: nzday2020
       <strong><a href="../speakers/#building-secure-mobile-apps-you-dont-have-to-learn-it-the-hard-way">Building Secure Mobile Apps: You don’t have to learn it the hard way!</a></strong>
       <br />
       <em>Sven Schleier - Co-Leader, OWASP MSTG and MASVS Projects</em>
+      <br />
+      <a href="../assets/presentations/Schleier--MSTG_MASVS--20200221">Slide Deck</a>
     </td>
   </tr>
   <tr>
@@ -105,6 +107,8 @@ tags: nzday2020
       <strong><a href="../speakers/#scanning-your-container-images-using-anchore">Scanning Your Container Images using Anchore</a></strong>
       <br />
       <em>Vince Sesto - Foodstuffs North Island</em>
+      <br />
+      <a href="../assets/presentations/Sesto--Scanning_Your_Container_Images--20200221.pdf">Slide Deck</a>
     </td>
   </tr>
   <tr>
@@ -152,6 +156,8 @@ tags: nzday2020
       <strong><a href="../speakers/#mūrere-me-te-haumarutanga">Mūrere me te haumarutanga</a></strong>
       <br />
       <em>Chris Cormack - Catalyst IT</em>
+      <br />
+      <a href="../assets/presentations/Cormack--Murere_me_te_haumarutanga--20200221.pdf">Slide Deck</a>
     </td>
   </tr>
   <tr>
@@ -160,6 +166,8 @@ tags: nzday2020
       <strong><a href="../speakers/#small-but-fierce-but-still-small">Small, but fierce (but still small)</a></strong>  
       <br />  
       <em>Erica Anderson (@Sputina) - SafeStack</em>
+      <br />
+      <a href="../assets/presentations/Anderson--Small_but_Fierce--20200221.pdf">Slide Deck</a>
     </td>
     <td style="vertical-align: top; text-align: right;">14:25</td>
     <td style="background-color: #B9C2DC; text-align: center">
@@ -218,6 +226,8 @@ tags: nzday2020
       <strong><a href="../speakers/#fighting-an-uneven-battle-simplicity-versus-complexity-in-web-app-security">Fighting an Uneven Battle: Simplicity versus Complexity in Web App Security</a></strong>
       <br />
       <em>Sergey Ozernikov - ATTACK</em>
+      <br />
+      <a href="../assets/presentations/Ozernikov--Complexity_vs_Simplicity--20200221.pdf">Slide Deck</a>
     </td>
     <td style="vertical-align: top; text-align: right;">16:55</td>
     <td style="background-color: #EEE; text-align: center">

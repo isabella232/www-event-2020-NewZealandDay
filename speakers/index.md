@@ -460,10 +460,6 @@ https://twitter.com/bsd_daemon
 
 #### Abstract
 
-We present the improved OWASP Software Assurance Maturity Model 2 (SAMM2). SAMM provides an effective and measurable way for organizations to analyze and improve their software security posture. The talk will cover the updated model, assessment tools and an update on the benchmark track.
-
-#### Speaker Biography
-
 OWASP SAMM (https://owaspsamm.org) is the prime maturity model for software assurance that provides an effective and measurable way for all types of organizations to analyze and improve their software security posture. 
 
 Building security into the software development and management practices of a company can be a daunting task. There are many elements to the equation: company structure, different stakeholders, technology stacks, tools and processes, and so forth. Implementing software assurance will have a significant impact on the organization. Yet, trying to achieve this without a good framework is most likely leading to just marginal and unsustainable improvements. 
@@ -476,6 +472,8 @@ In this talk, we give an overview of the new release of the SAMM model. After 10
 - (ii) the measurement model which was set up to cover both coverage and quality and 
 - (iii) the new security practice streams where the SAMM activities are grouped in maturity levels. We will demonstrate the new SAMM2 toolbox to measure the maturity of an example DevOps team and how you can create a roadmap of activities
 
+#### Speaker Biography
 
+John is a security principal at a Fortune 1000 company, where he helps software development teams build and deliver secure enterprise solutions. When not delivering secure software solutions, he can be found hanging out with his family, often outdoors, and probably scaling mountains. John is the chapter leader of OWASP Maine, and on the core team for the OWASP Software Assurance Maturity Model (SAMM) Project.
 
 
