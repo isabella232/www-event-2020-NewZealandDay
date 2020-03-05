@@ -174,6 +174,8 @@ tags: nzday2020
       <strong><a href="../speakers/#web-app-attacks-of-the-modern-world">Web App Attacks of the Modern World</a></strong>
       <br />
       <em>Karan Sharma</em>
+      <br />
+      View: <a href="../assets/presentations/Sharma--WebApp_Attacks--20200221.pdf" target="_blank">Slide Deck</a>
     </td>
     <td rowspan="2" style="vertical-align: top; text-align: right;">&nbsp;</td>
     <td rowspan="2" style="background-color: #B9C2DC; text-align: center">&nbsp;</td>
