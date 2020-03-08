@@ -72,7 +72,7 @@ tags: nzday2020
       <br />
       <em>Benjamin Kearns (pipeline) - Lateral Security</em>
       <br />
-      View: <a href="../assets/presentations/Kearnes--Pentesters_Guide_to_Automating_Security--20200221.pdf" target="_blank">Slide Deck</a>
+      View: <a href="../assets/presentations/Kearnes--Pentesters_Guide_to_Automating_Security--20200221.pdf" target="_blank">Slide Deck</a> (PDF, 6.5MB)
     </td>
     <td style="vertical-align: top; text-align: right;">10:10</td>
     <td style="background-color: #EEE; text-align: center">
@@ -93,6 +93,8 @@ tags: nzday2020
       <strong><a href="../speakers/#improving-identity-management-with-w3c-verifiable-credentials">Improving Identity Management with W3C Verifiable Credentials</a></strong>
       <br />
       <em>David Chadwick - University of Kent</em>
+      <br />
+      View: <a href="../assets/presentations/Chadwick--W3C_Verifiable_Credentials--20200221.pdf" target="_blank">Slide Deck</a> (PDF, 3.4MB)
     </td>
     <td style="vertical-align: top; text-align: right;" rowspan="2">10:45</td>
     <td style="background-color: #B9C2DC; text-align: center" rowspan="2">
@@ -100,7 +102,7 @@ tags: nzday2020
       <br />
       <em>Sven Schleier - Co-Leader, OWASP MSTG and MASVS Projects</em>
       <br />
-      View: <a href="../assets/presentations/Schleier--MSTG_MASVS--20200221" target="_blank">Slide Deck</a>
+      View: <a href="../assets/presentations/Schleier--MSTG_MASVS--20200221" target="_blank">Slide Deck</a> (PDF, 9.1MB)
     </td>
   </tr>
   <tr>
@@ -110,7 +112,7 @@ tags: nzday2020
       <br />
       <em>Vince Sesto - Foodstuffs North Island</em>
       <br />
-      View: <a href="../assets/presentations/Sesto--Scanning_Your_Container_Images--20200221.pdf" target="_blank">Slide Deck</a>
+      View: <a href="../assets/presentations/Sesto--Scanning_Your_Container_Images--20200221.pdf" target="_blank">Slide Deck</a> (PDF, 78kB)
     </td>
   </tr>
   <tr>
@@ -159,7 +161,7 @@ tags: nzday2020
       <br />
       <em>Chris Cormack - Catalyst IT</em>
       <br />
-      View: <a href="../assets/presentations/Cormack--Murere_me_te_haumarutanga--20200221.pdf" target="_blank">Slide Deck</a>
+      View: <a href="../assets/presentations/Cormack--Murere_me_te_haumarutanga--20200221.pdf" target="_blank">Slide Deck</a> (PDF, 366kB)
     </td>
   </tr>
   <tr>
@@ -169,7 +171,7 @@ tags: nzday2020
       <br />  
       <em>Erica Anderson (@Sputina) - SafeStack</em>
       <br />
-      View: <a href="../assets/presentations/Anderson--Small_but_Fierce--20200221.pdf" target="_blank">Slide Deck</a>
+      View: <a href="../assets/presentations/Anderson--Small_but_Fierce--20200221.pdf" target="_blank">Slide Deck</a> (PDF, 353kB)
     </td>
     <td style="vertical-align: top; text-align: right;">14:25</td>
     <td style="background-color: #B9C2DC; text-align: center">
@@ -177,7 +179,7 @@ tags: nzday2020
       <br />
       <em>Karan Sharma</em>
       <br />
-      View: <a href="../assets/presentations/Sharma--WebApp_Attacks--20200221.pdf" target="_blank">Slide Deck</a>
+      View: <a href="../assets/presentations/Sharma--WebApp_Attacks--20200221.pdf" target="_blank">Slide Deck</a> (PDF, 12.5MB)
     </td>
     <td rowspan="2" style="vertical-align: top; text-align: right;">&nbsp;</td>
     <td rowspan="2" style="background-color: #B9C2DC; text-align: center">&nbsp;</td>
@@ -195,7 +197,7 @@ tags: nzday2020
       <br />
       <em>Oliver (Olly) Ewert</em>
       <br />
-      View: <a href="../assets/presentations/Ewert--Use_OSINT_to_Keep_up_with_AWS--20200221.pdf" target="_blank">Slide Deck (with presenter's notes)</a>
+      View: <a href="../assets/presentations/Ewert--Use_OSINT_to_Keep_up_with_AWS--20200221.pdf" target="_blank">Slide Deck (with presenter's notes)</a> (PDF, 3.3MB)
     </td>
   </tr>
   <tr>
@@ -221,7 +223,7 @@ tags: nzday2020
       <br />
       <em>John Ellingsworth - Co-Author, OWASP SAMM Project</em>
       <br />
-      View: <a href="../assets/presentations/Ellingsworth--OWASP_SAMM--20200221.pdf" target="_blank">Slide Deck</a>
+      View: <a href="../assets/presentations/Ellingsworth--OWASP_SAMM--20200221.pdf" target="_blank">Slide Deck</a> (PDF, 980kB)
     </td>
   </tr>
   <tr>
@@ -235,7 +237,7 @@ tags: nzday2020
       <br />
       <em>Sergey Ozernikov - ATTACK</em>
       <br />
-      View: <a href="../assets/presentations/Ozernikov--Complexity_vs_Simplicity--20200221.pdf" target="_blank">Slide Deck</a>
+      View: <a href="../assets/presentations/Ozernikov--Complexity_vs_Simplicity--20200221.pdf" target="_blank">Slide Deck</a> (PDF, 1.2MB)
     </td>
     <td style="vertical-align: top; text-align: right;">16:55</td>
     <td style="background-color: #EEE; text-align: center">
