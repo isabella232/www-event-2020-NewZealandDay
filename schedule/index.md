@@ -244,6 +244,8 @@ tags: nzday2020
       <strong><a href="../speakers/#a-recipe-for-password-storage-add-salt-to-taste">A Recipe for Password Storage: Add Salt to Taste</a></strong>
       <br />
       <em>Nick Malcolm - Aura Information Security</em>
+      <br />
+      View: <a href="../assets/presentations/Malcolm--Recipe_for_Password_Storage--20200221.pdf" target="_blank">Slide Deck</a> (PDF, 1.7MB)
     </td>
     <td rowspan="2" style="vertical-align: top; text-align: right;">&nbsp;</td>
     <td rowspan="2" style="background-color: #B9C2DC; text-align: center">&nbsp;</td>
