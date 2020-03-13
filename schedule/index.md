@@ -262,6 +262,8 @@ tags: nzday2020
       <strong><a href="../speakers/#self-service-ssh-certificates">Self-Service SSH Certificates</a></strong>
       <br />
       <em>Jeremy Stott</em>
+      <br />
+      View: <a href="../assets/presentations/Stott--Self_Service_ssh_Certificates--20200221.pdf" target="_blank">Slide Deck</a> (PDF, 2.5MB)
     </td>
   </tr>
   <tr>
