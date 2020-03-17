@@ -142,9 +142,10 @@ tags: nzday2020
     <td style="background-color: #EEE; text-align: center">
       <strong><a href="../speakers/#māori-cultural-and-ethical-considerations-in-information-security">Māori Cultural and Ethical Considerations in Information Security</a></strong>
       <br />
-      <em>Karaitiana Taiuru</em></td>
+      <em>Karaitiana Taiuru</em>
       <br />
       View: <a href="../assets/presentations/Taiuru--Maori_Cultural_and_Ethical_Considerations--20200221.pdf" target="_blank">Slide Deck</a> (PDF, 602kB)
+    </td>
     <td rowspan="2" style="vertical-align: top; text-align: right;">13:30</td>
     <td rowspan="2" style="background-color: #EEE; text-align: center">
       <strong><a href="../speakers/#wyh-ranmdnoses-mattres">Wyh Ranmdnoses Mattres</a></strong>
