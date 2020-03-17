@@ -121,6 +121,8 @@ tags: nzday2020
       <strong><a href="../speakers/#whats-the-worst-that-could-happen">What's the Worst That Could Happen?</a></strong>
       <br />
       <em>Petra Smith - Aura Information Security</em>
+      <br />
+      View: <a href="../assets/presentations/Smith--Whats_the_Worst_that_Can_Happen--20200221.pdf" target="_blank">Slide Deck</a> (PDF, 1.5MB)
     </td>
     <td style="vertical-align: top; text-align: right;">11:40</td>
     <td style="background-color: #B9C2DC; text-align: center">
