@@ -143,6 +143,8 @@ tags: nzday2020
       <strong><a href="../speakers/#māori-cultural-and-ethical-considerations-in-information-security">Māori Cultural and Ethical Considerations in Information Security</a></strong>
       <br />
       <em>Karaitiana Taiuru</em></td>
+      <br />
+      View: <a href="../assets/presentations/Taiuru--Maori_Cultural_and_Ethical_Considerations--20200221.pdf" target="_blank">Slide Deck</a> (PDF, 602kB)
     <td rowspan="2" style="vertical-align: top; text-align: right;">13:30</td>
     <td rowspan="2" style="background-color: #EEE; text-align: center">
       <strong><a href="../speakers/#wyh-ranmdnoses-mattres">Wyh Ranmdnoses Mattres</a></strong>
@@ -218,6 +220,8 @@ tags: nzday2020
       <strong><a href="../speakers/#security-in-our-code-reviews-check">Security in our code reviews? Check!</a></strong>
       <br />
       <em>Daniel Zollinger - SafeStack</em>
+      <br />
+      View: <a href="../assets/presentations/Zollinger--Security_in_Our_Code_Review-Check--20200221.pdf" target="_blank">Slide Deck</a> (PDF, 2.0MB)
     </td>
     <td rowspan="2" style="vertical-align: top; text-align: right;">16:00</td>
     <td rowspan="2" style="background-color: #EEE; text-align: center;">
