@@ -129,6 +129,8 @@ tags: nzday2020
       <strong><a href="../speakers/#teaching-an-old-dog-new-tricks">Teaching an Old Dog New Tricks</a></strong>
       <br />
       <em>Brett Moore - Insomnia Security Specialists</em>
+      <br />
+      View: <a href="../assets/presentations/Moore--Old_Dog_New_Tricks--20200221.pdf" target="_blank">Slide Deck</a> (PDF, 922kB)
     </td>
     <td style="vertical-align: top; text-align: right;">&nbsp;</td>
     <td style="background-color: #EEE; text-align: center">&nbsp;</td>
