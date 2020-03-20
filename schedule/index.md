@@ -29,6 +29,8 @@ tags: nzday2020
       <strong>Welcome to OWASP New Zealand Day 2020</strong>
       <br />
       <em>John DiLeo (Conference Chair) and Kirk Jackson - OWASP New Zealand Chapter Leaders<br />Lech Janczewski (Conference Host) - Associate Professor, Univ. of Auckland</em>
+      <br />
+      View: <a href="../assets/presentations/DiLeo--Opening_Session--20200221.pdf" target="_blank">Slide Deck</a> (PDF, 1.4MB)
     </td>
   </tr>
   <tr>
@@ -37,6 +39,8 @@ tags: nzday2020
       <strong><a href="../speakers/#the-abridged-history-of-application-security">Opening Keynote: The Abridged History of Application Security</a></strong>
       <br />
       <em>Jim Manico - Founder, Manicode Security; Co-Leader, OWASP Application Security Verification Standard (ASVS) and Proactive Controls Projects</em>
+      <br />
+      View: <a href="../assets/presentations/Manico--Keynote-Abridged_History_of_AppSec--20200221.pdf" target="_blank">Slide Deck</a> (PDF, 3.9MB)
     </td>
   </tr>
   <tr>
@@ -279,6 +283,8 @@ tags: nzday2020
     <td style="vertical-align: top; text-align: right;">18:05</td>
     <td colspan="5" style="background-color: #D98B66; text-align: center;">
       <strong>Wrap Up - Closing Remarks, Recognition, Prize Giving</strong>
+      <br />
+      View: <a href="../assets/presentations/DiLeo--Closing_Session--20200221.pdf" target="_blank">Slide Deck</a> (PDF, 3.9MB)
       <br />
       <em>Post-Conference: Time to go out and socialise, for those interested</em>
     </td>
