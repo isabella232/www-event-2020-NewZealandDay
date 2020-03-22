@@ -269,6 +269,8 @@ tags: nzday2020
       <strong><a href="../speakers/#pci-dss-wtf">PCI-DSS-WTF?</a></strong>
       <br />
       <em>Peter Jakowetz - Ministry of Justice</em>
+      <br />
+      View: <a href="../assets/presentations/Jakowetz--PCI-DSS_WTF--20200221.pdf" target="_blank">Slide Deck</a> (PDF, 2.8MB)
     </td>
     <td style="vertical-align: top; text-align: right;">17:30</td>
     <td style="background-color: #B9C2DC; text-align: center">
